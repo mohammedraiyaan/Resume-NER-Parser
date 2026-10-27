@@ -1,0 +1,34 @@
+================================================================================
+PRIYA NAIR                                        Email: priya.nair@outlook.com
+Data Scientist & NLP Specialist                  Location: Hyderabad, Telangana
+LinkedIn: linkedin.com/in/priya-nair-ds          Phone: +91-9123456789
+================================================================================
+
+[ LEFT COLUMN: PROFILE & SKILLS ]                [ RIGHT COLUMN: EXPERIENCE & EDUCATION ]
+
+PROFESSIONAL SUMMARY                             WORK EXPERIENCE
+Data Scientist with 3.5 years of experience      Data Scientist
+in applying statistical modeling, sequence       Tata Consultancy Services, Hyderabad
+tagging (NER), and generative AI models to       August 2021 - Present
+enterprise business solutions.                   - Developed automated document parsing pipelines
+                                                   processing 5,000+ PDFs daily.
+CORE COMPETENCIES                                - Trained custom spaCy and BERT token classifiers
+- NLP & Information Extraction                    improving entity extraction precision by 18%.
+- Deep Learning: PyTorch, HuggingFace            - Reduced latency by 45% through ONNX runtime.
+- Large Language Models: Prompt Engineering,
+  RAG, Few-shot Prompting                        Associate Data Analyst
+- Cloud Platforms: AWS EC2, S3, SageMaker        Infosys Limited, Bengaluru
+- Databases: PostgreSQL, MongoDB                 June 2019 - July 2021
+                                                 - Engineered feature extraction pipelines using SQL
+TECHNICAL TOOLKIT                                  and Python pandas.
+Python, SQL, R, PyTorch, Scikit-Learn, Docker,   - Automated KPI executive reporting dashboards.
+Kubernetes, Streamlit, Git, Linux
+                                                 EDUCATION
+HONORS & AWARDS                                  M.Tech in Computer Science
+- Best Innovation Award at TCS Hackathon (2022)  National Institute of Technology (NIT), Warangal
+- Published paper on sequence labeling in IEEE   Graduation Year: 2019 | CGPA: 9.1
+  conference (2020)
+                                                 B.Tech in Information Technology
+                                                 Osmania University, Hyderabad
+                                                 Graduation Year: 2017 | CGPA: 8.5
+================================================================================

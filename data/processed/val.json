@@ -1,0 +1,2198 @@
+[
+  {
+    "id": 76,
+    "content": "Vamsi krishna\nhyderbad, Telangana - Email me on Indeed: indeed.com/r/Vamsi-krishna/15906b55159d4088\n\nWilling to relocate to: hyderbad, Telangana\n\nWORK EXPERIENCE\n\nSoftware developer\n\nMicrosoft\n\nIam need \nWhat i am\n\nEDUCATION\n\nBsc\n\nShri gnanambika degree college\n\nSKILLS\n\nAnalytics, Research\n\nhttps://www.indeed.com/r/Vamsi-krishna/15906b55159d4088?isid=rex-download&ikw=download-top&co=IN",
+    "entities": [
+      {
+        "label": "Name",
+        "start": 0,
+        "end": 13,
+        "text": "Vamsi krishna"
+      },
+      {
+        "label": "Location",
+        "start": 14,
+        "end": 22,
+        "text": "hyderbad"
+      },
+      {
+        "label": "Email Address",
+        "start": 56,
+        "end": 99,
+        "text": "indeed.com/r/Vamsi-krishna/15906b55159d4088"
+      },
+      {
+        "label": "Location",
+        "start": 125,
+        "end": 133,
+        "text": "hyderbad"
+      },
+      {
+        "label": "Designation",
+        "start": 163,
+        "end": 181,
+        "text": "Software developer"
+      },
+      {
+        "label": "Companies worked at",
+        "start": 183,
+        "end": 192,
+        "text": "Microsoft"
+      },
+      {
+        "label": "Degree",
+        "start": 226,
+        "end": 229,
+        "text": "Bsc"
+      },
+      {
+        "label": "College Name",
+        "start": 231,
+        "end": 261,
+        "text": "Shri gnanambika degree college"
+      },
+      {
+        "label": "Skills",
+        "start": 271,
+        "end": 290,
+        "text": "Analytics, Research"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "content": "Nitin Tr\nPeopleSoft Consultant\n\nBangalore Urban, Karnataka - Email me on Indeed: indeed.com/r/Nitin-Tr/e7e3a2f5b4c1e24e\n\nAn e-commerce website I built as my college project. The website contains all the basic elements\nof an e-commerce website which are\n\nThe landing page, categorization of items based on filters, basic session level security, product\npage, Cart, share button, empty cart button, paginations etc.\n\nIt consists of a separate seller accounts where sellers can register and later upload their products\nto be sold, which can later be edited or deleted.\n\nIt consists of an admin panel where all the products listed can be viewed and edited by the\nmoderator.\n\n60 days auto delete feature, which deletes the product listing 60 days from the date of upload\nif seller has not modified the listing upon the next login.\n\nUsage of Modals for registration and Login which reduces the number of pages to navigate.\n\nLanguages used: PHP, MySQL, Html, CSS, Bootstrap, JavaScript and jQuery.\n\nWORK EXPERIENCE\n\nPeopleSoft consultant\n\nOracle -\n\nSeptember 2017 to Present\n\nPerforming customisations, enhancements and bug fixes for front end and backend inpeople code\nusing appdesigner.\n\nPeopleSoft Consultant\n\nOracle India Ltd -\n\nSeptember 2017 to April 2018\n\n• Develop customizations to meet business process requirements using application designer.\n\n• Involved in modification enhancement and bug-fixing of the PeopleSoft application both front-\nend and back-end to suit business needs.\n\n• Communicate with the business and get clear requirements if adequate information is not\navailable and also follow-up with them until final resolution is obtained.\n\n• Release Enhancements for UAT and communicate with business to migrate into production.\n\nhttps://www.indeed.com/r/Nitin-Tr/e7e3a2f5b4c1e24e?isid=rex-download&ikw=download-top&co=IN\n\n\n• Also have to work on service requests, Incident Creation, Incident Assignment additionally and\nconstantly involved in querying the database and running reports.\n\nFreelance Development\n\nI am a passionate Web Developer and love to build clean, smooth and responsive websites. I\nhave built many websites for individuals on freelance or per-project basis which are Responsive in\nnature. I am capable of building clean and responsive websites. They include personal portfolios\nand Small business websites.\n• http://www.pramodprakash.com/shop: Responsive and Dynamic e-commerce portal.\n\n• http://www.pramodprakash.com/tickItBusDemoUrl: A bus booking platform, source:\nKathmandu, Destination: Pokhra.\n• http://www.pramodprakash.com/geisle/index.php: A small business website focused on\nanimations (under construction) also check (geisle/index2.php)\n• http://pramodprakash.com/fulllogin: complete login module with email account activation and\npassword reset.\n• http://pramodprakash.com/sec: A small business website, built to showcase color combinations\nand layout.\n• http://pramodprakash.com/r&d: A small business website built in parallax format. Completely\nresponsive.\n• http://pramodprakash.com/web1: A template built according to given specifications and also\nsmall map feature included which also supports location search.\n\nEDUCATION\n\nBtech information science in BCET\n\nVtu -  Bengaluru, Karnataka\n\n2017\n\nVijaya composite p.u. college\n\ne-commerce\n\nVijaya High School\n\nSKILLS\n\nPhp, Html5, Javascript, Css, Bootstrap, Jquery, Sql\n\nLINKS\n\nhttps://www.linkedin.com/in/nitin-tr-588105129\n\nADDITIONAL INFORMATION\n\nSoftware Skills\n\nhttps://www.linkedin.com/in/nitin-tr-588105129\n\n\n• Programming Language: core java, peoplecode.\n• Scripting languages: PHP, JavaScript.\n• Web Languages: HTML, CSS.\n• Database Language: Sql.\n• Frameworks: Bootstrap, JQuery.\n• IDE's: NetBeans, Eclipse.\n• Tools: Application Designer, Toad.\n\nPersonal Skills\n\n• Excellent Communication Skills both Written and verbal.\n• Honest, trustworthy and highly motivated team player and Strong Negotiator.\n• Supportive and creative.\n• Quick Learner and Flexible.\n• Good Analytical Ability and Logical Reasoning.\n• Good listening skills.",
+    "entities": [
+      {
+        "label": "Name",
+        "start": 0,
+        "end": 8,
+        "text": "Nitin Tr"
+      },
+      {
+        "label": "Location",
+        "start": 32,
+        "end": 47,
+        "text": "Bangalore Urban"
+      },
+      {
+        "label": "Email Address",
+        "start": 81,
+        "end": 119,
+        "text": "indeed.com/r/Nitin-Tr/e7e3a2f5b4c1e24e"
+      },
+      {
+        "label": "Degree",
+        "start": 124,
+        "end": 134,
+        "text": "e-commerce"
+      },
+      {
+        "label": "Degree",
+        "start": 224,
+        "end": 234,
+        "text": "e-commerce"
+      },
+      {
+        "label": "Designation",
+        "start": 1009,
+        "end": 1030,
+        "text": "PeopleSoft consultant"
+      },
+      {
+        "label": "Companies worked at",
+        "start": 1032,
+        "end": 1038,
+        "text": "Oracle"
+      },
+      {
+        "label": "Companies worked at",
+        "start": 1206,
+        "end": 1212,
+        "text": "Oracle"
+      },
+      {
+        "label": "Email Address",
+        "start": 1754,
+        "end": 1792,
+        "text": "indeed.com/r/Nitin-Tr/e7e3a2f5b4c1e24e"
+      },
+      {
+        "label": "Degree",
+        "start": 2399,
+        "end": 2409,
+        "text": "e-commerce"
+      },
+      {
+        "label": "Degree",
+        "start": 3172,
+        "end": 3205,
+        "text": "Btech information science in BCET"
+      },
+      {
+        "label": "College Name",
+        "start": 3207,
+        "end": 3210,
+        "text": "Vtu"
+      },
+      {
+        "label": "Graduation Year",
+        "start": 3236,
+        "end": 3240,
+        "text": "2017"
+      },
+      {
+        "label": "College Name",
+        "start": 3242,
+        "end": 3271,
+        "text": "Vijaya composite p.u. college"
+      },
+      {
+        "label": "Degree",
+        "start": 3273,
+        "end": 3283,
+        "text": "e-commerce"
+      },
+      {
+        "label": "College Name",
+        "start": 3285,
+        "end": 3303,
+        "text": "Vijaya High School"
+      },
+      {
+        "label": "Skills",
+        "start": 3313,
+        "end": 3364,
+        "text": "Php, Html5, Javascript, Css, Bootstrap, Jquery, Sql"
+      },
+      {
+        "label": "Skills",
+        "start": 3511,
+        "end": 3749,
+        "text": "• Programming Language: core java, peoplecode.\n• Scripting languages: PHP, JavaScript.\n• Web Languages: HTML, CSS.\n• Database Language: Sql.\n• Frameworks: Bootstrap, JQuery.\n• IDE's: NetBeans, Eclipse.\n• Tools: Application Designer, Toad."
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "content": "Shabnam Saba\nOffshore SAP CRM Functional Consultant\n\nBengaluru, Karnataka - Email me on Indeed: indeed.com/r/Shabnam-Saba/dc70fc366accb67f\n\nTo understand the organization and to identify its needs and correlate them with my goals so as\nto apply myself to responsibility with total dedication and dynamism so as to grow along with\nthe organization.\n\nPast Organization: Tata Consultancy Services as SAP CRM functional consultant (July 2014 - Jan\n2016), SAP Labs, India (from Feb 2011-June 2014), Cognizant Technology Solutions (May 2010-\nOctober 2010)\n\nWORK EXPERIENCE\n\nOffshore SAP CRM Functional Consultant\n\nSAP AG -\n\nJuly 2014 to January 2016\n\nDescription: The project involves SAP IT support with respect to AGS and SAP Cloud Process .SAP\nIT support involves handling incident and service requests from SAP CRM users and customers\nacross the globe.\n\nResponsibilities:\n• Problem Analysing and Handling Tickets of SAP CRM (AGS and Cloud process)\n• Handling incident and providing solution with in SLA time frame.\n• Configuring the system to resolve the issues.\n• Worked on changes to the functional specifications required as per the clients\nrequirement.\n• Preparing test cases and taking approval from client before moving new changes to production.\n• Coordinated with the technical team in solving the tickets.\n\nQuality Engineer\n\nSAP Labs -\n\nJuly 2002 to January 2014\n\nResponsibilities:\n\nWorked in configuring and testing different areas of Framework:\n\n• Nav. Bar profile\n• Role Config key\n• Business Roles and UI Config tool\n• Creating A Business Role\n\nFunctional Consultant\n\nhttps://www.indeed.com/r/Shabnam-Saba/dc70fc366accb67f?isid=rex-download&ikw=download-top&co=IN\n\n\nSAP Labs -\n\nMarch 2012 to June 2013\n\nDescription:\n\nMobile Client Technology is client technology designed for Microsoft Windows-based, occasionally\nserver-connected CRM field applications. These applications offer a rich function set, such as\nSAP CRM Mobile Sales and SAP CRM Mobile Service. Mobile Sales for SAP CRM allows users to\naccess all their accounts, contacts, leads, opportunities, and activities from a single point. All\nrelationships between these business objects are automatically mapped in the application, which\nallows for fast and easy navigation.\n\nResponsibilities:\nTesting the various business objects:\nOpportunities, Quotation, Sales orders, Activities.\nWorked on system set up (creation of sites, subscriptions), opportunity, quotation, order\nmanagement.\n\n5. CRM Sales ( CRM 7.01, CRM 7.02, CRM 7.03) -Feb '2011-June 2014\n\nClient: SAP Labs India\nRole: Functional Consultant\nDescription:\n\nThis area in SAP Customer Relationship Management (SAP CRM) enables you to manage your\nsales cycle, starting with creating appointments and business opportunities, through to managing\nsales orders, contracts, and invoicing. It also allows you to organize and structure your sales\nterritories according to your business requirements.\n\nResponsibilities:\nWas involved in customizations and testing of:\n\n• Territory management\n• Account and contact management\n• Activity management, visit Planning\n• opportunity planning, opportunity management\n• quotation and order management\n• Pricing\n• Organizational Management and Billing\n• Customizations of Surveys\n\nEDUCATION\n\nB.E in CSE\n\nPadmanava College of Engineering\n\n2009\n\nSt. Joseph's convent school\n\n\n\n2003\n\nSKILLS\n\nCRM (10+ years), CUSTOMER RELATIONSHIP MANAGEMENT (10+ years), TESTING (10+ years),\nUI (10+ years), USER INTERFACE (10+ years)\n\nADDITIONAL INFORMATION\n\nOther Skills:\n\nCRM Middleware:\n\n• Worked on downloading initial and delta download between ECC and CRM,\nCRM and MSA.\n• Monitoring middleware data between ECC and CRM.\n• Monitoring Queues and error handling of BDocs.\n• Worked on subscriptions and Publications, Replication Objects.\n\nSAP ECC Sales and Distribution:\n\n• Strong Understanding of SAP Customizing and Detailed knowledge of core SD functions such\nas Item Categories, Text Determination, output determination, taxes\n• Customer Master and Material Master data, item proposal, variant configuration, Product\nhierarchy\n• Sales document types (Orders, Returns, CMR, DMR)\n• Billing and Pricing concept, worked on bill plans\n• Sales Enterprise structure\n• Copy control, Incompletion log, Material listing and Exclusion\n• Partner determination, Customization of Account groups\n• Worked with cross-functional teams during development and configuration activities to ensure\nimpact to other SAP modules and processes is considered.\n\nSAP CRM Skills:\n• CRM Sales and Service order management (Extensive experience in configuration for Text\nDetermination Procedures, Status Profile, Org. Data Determination and Transaction Types)\n\n• SAP Fiori (creation of test data and application testing in different landscapes including browser\ntesting)\n• SAP Mobile Sales (creation of test data and system set up)\n• Well versed in base customizing and WEBUI configuration along with CRM Tables.\n• Hands on experience in CRM middleware (creation of sites, subscription, publication, checking\nbdocs, idocs, download objects) and trouble shooting.\n• In depth knowledge in CRM One Order Framework.\n• Extensive experience in the configuration of Web UI for multiple Business Roles, Actions,\nNavigation Bar Profile.\n\nCompetencies and Skills:\n\n\n\n• CR-100 (BP, Product, Org model, Partner/Text determination, Transaction type, Item categories,\nTerritory)\n• CR-300\n• CRM Mobile Sales\n• CRM Middleware Basics\n• Basic Debugging (ABAP)\n• Knowledge on Idocs (set-up, filtration, reprocessing)\n\nTesting:\n• Experience in SAP CRM Module (sales and service) with testing\n• Good understanding of application testing process.\n• Coordinated with SAP CRM technical team members to understand testing functionalities\n• Written Test cases for different CRM modules (Account Management, opportunity, activity\nmanagement, sales order creation) Sales & Service.\n• Managed issue logs / defects and subsequent closures.\n\nBasic Debugging:\nKnowledge of ABAP Debugging, Basic ABAP (Tables, data elements, Working with Table\nMaintenance Generator, Creating a Transaction Variant, Creating an SAP Area Menus, Find the\nSAP IMG Customizing Activity from the Table Name, basic knowledge of Smartforms)",
+    "entities": [
+      {
+        "label": "Name",
+        "start": 0,
+        "end": 12,
+        "text": "Shabnam Saba"
+      },
+      {
+        "label": "Designation",
+        "start": 13,
+        "end": 51,
+        "text": "Offshore SAP CRM Functional Consultant"
+      },
+      {
+        "label": "Location",
+        "start": 53,
+        "end": 62,
+        "text": "Bengaluru"
+      },
+      {
+        "label": "Email Address",
+        "start": 88,
+        "end": 138,
+        "text": "Indeed: indeed.com/r/Shabnam-Saba/dc70fc366accb67f"
+      },
+      {
+        "label": "Designation",
+        "start": 568,
+        "end": 606,
+        "text": "Offshore SAP CRM Functional Consultant"
+      },
+      {
+        "label": "Companies worked at",
+        "start": 608,
+        "end": 614,
+        "text": "SAP AG"
+      },
+      {
+        "label": "Designation",
+        "start": 1314,
+        "end": 1330,
+        "text": "Quality Engineer"
+      },
+      {
+        "label": "Companies worked at",
+        "start": 1332,
+        "end": 1340,
+        "text": "SAP Labs"
+      },
+      {
+        "label": "Companies worked at",
+        "start": 1677,
+        "end": 1685,
+        "text": "SAP Labs"
+      },
+      {
+        "label": "Companies worked at",
+        "start": 2529,
+        "end": 2537,
+        "text": "SAP Labs"
+      },
+      {
+        "label": "Degree",
+        "start": 3250,
+        "end": 3260,
+        "text": "B.E in CSE"
+      },
+      {
+        "label": "College Name",
+        "start": 3262,
+        "end": 3294,
+        "text": "Padmanava College of Engineering"
+      },
+      {
+        "label": "Graduation Year",
+        "start": 3296,
+        "end": 3300,
+        "text": "2009"
+      },
+      {
+        "label": "College Name",
+        "start": 3302,
+        "end": 3329,
+        "text": "St. Joseph's convent school"
+      },
+      {
+        "label": "Graduation Year",
+        "start": 3333,
+        "end": 3337,
+        "text": "2003"
+      },
+      {
+        "label": "Skills",
+        "start": 3347,
+        "end": 3473,
+        "text": "CRM (10+ years), CUSTOMER RELATIONSHIP MANAGEMENT (10+ years), TESTING (10+ years),\nUI (10+ years), USER INTERFACE (10+ years)"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "content": "Navjyot Singh Rathore\nUlhasnagar, Maharashtra - Email me on Indeed: indeed.com/r/Navjyot-Singh-Rathore/\nad92079f3f1a4cad\n\nWORK EXPERIENCE\n\nfresher job\n\nAccenture -  Ulhasnagar, Maharashtra\n\nFresher\n\nAny post\n\nEDUCATION\n\nTYBMS in Management Studies\n\nVedanta College of management and information technology -  Mumbai, Maharashtra\n\n2015 to 2018\n\nH.S.C\n\nGuru Nanak English High School and Jr cllg\n\n2013 to 2015\n\nS.S.C\n\nswami Vivekananda school\n\n2013\n\nSKILLS\n\nFresher\n\nADDITIONAL INFORMATION\n\n● Can switch to any environment within a short span\n● Dedication towards Hard work\n● Willingness to learn\n\nSKILLS\n\n● Basic Computers knowledge\n● Good Understanding of Business Ethics, Operational Research.\n● Completed Project Work on working capital with A+ Grade.\n\nhttps://www.indeed.com/r/Navjyot-Singh-Rathore/ad92079f3f1a4cad?isid=rex-download&ikw=download-top&co=IN\nhttps://www.indeed.com/r/Navjyot-Singh-Rathore/ad92079f3f1a4cad?isid=rex-download&ikw=download-top&co=IN",
+    "entities": [
+      {
+        "label": "Name",
+        "start": 0,
+        "end": 21,
+        "text": "Navjyot Singh Rathore"
+      },
+      {
+        "label": "Location",
+        "start": 22,
+        "end": 32,
+        "text": "Ulhasnagar"
+      },
+      {
+        "label": "Email Address",
+        "start": 68,
+        "end": 120,
+        "text": "indeed.com/r/Navjyot-Singh-Rathore/\nad92079f3f1a4cad"
+      },
+      {
+        "label": "Designation",
+        "start": 139,
+        "end": 150,
+        "text": "fresher job"
+      },
+      {
+        "label": "Companies worked at",
+        "start": 152,
+        "end": 161,
+        "text": "Accenture"
+      },
+      {
+        "label": "Location",
+        "start": 165,
+        "end": 175,
+        "text": "Ulhasnagar"
+      },
+      {
+        "label": "Degree",
+        "start": 220,
+        "end": 247,
+        "text": "TYBMS in Management Studies"
+      },
+      {
+        "label": "College Name",
+        "start": 249,
+        "end": 305,
+        "text": "Vedanta College of management and information technology"
+      },
+      {
+        "label": "Graduation Year",
+        "start": 330,
+        "end": 334,
+        "text": "2015"
+      },
+      {
+        "label": "Graduation Year",
+        "start": 338,
+        "end": 342,
+        "text": "2018"
+      },
+      {
+        "label": "Degree",
+        "start": 344,
+        "end": 349,
+        "text": "H.S.C"
+      },
+      {
+        "label": "College Name",
+        "start": 351,
+        "end": 393,
+        "text": "Guru Nanak English High School and Jr cllg"
+      },
+      {
+        "label": "Graduation Year",
+        "start": 403,
+        "end": 407,
+        "text": "2015"
+      },
+      {
+        "label": "Skills",
+        "start": 606,
+        "end": 753,
+        "text": "Basic Computers knowledge\n● Good Understanding of Business Ethics, Operational Research.\n● Completed Project Work on working capital with A+ Grade."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "content": "Santosh Ganta\nSenior Systems Engineer - mainframe\n\nBengaluru, Karnataka - Email me on Indeed: indeed.com/r/Santosh-Ganta/4270d63f03e71ee8\n\nWilling to relocate to: Bengaluru, Karnataka - hyderbad, Telangana - Chennai, Tamil Nadu\n\nWORK EXPERIENCE\n\nSenior Systems Engineer\n\nInfosys Limited -  Chennai, Tamil Nadu -\n\nFebruary 2014 to Present\n\nDevelopment,Testing,Support\n\nSenior system engineer\n\nInfosys limited\n\nDevelopment,Testing,Support\n\nEDUCATION\n\nB.Tech in Information Technology\n\nGMR Institute of Technology and Management -  Kakinada, Andhra Pradesh\n\n2013\n\nPratibha Junior College\n\n2009\n\nEnglish, Hindi\n\nS.R high School -  Chennai, Tamil Nadu\n\n2006\n\nSKILLS\n\nCA7 (4 years), DB2 (4 years), QMF (4 years), Cobol (4 years), Mainframe (4 years), Cics (4\nyears), Rexx (4 years)\n\nADDITIONAL INFORMATION\n\n• Adopt to any kind of Environment.\n\nTechnical Summary\n\nhttps://www.indeed.com/r/Santosh-Ganta/4270d63f03e71ee8?isid=rex-download&ikw=download-top&co=IN\n\n\n• Tools: ISPF, SPUFI, QMF, File-Aid, MainView, Librarian, CA7, Control-M, Xpeditor\n• Operating System: Windows 7\n• Database: DB2, SQL Server\n• Domain: Retail\n• Packages: MS office\n\n• Secondary Skills: Java Script, HTML, JSP, Java, Oracle 10g, Unix",
+    "entities": [
+      {
+        "label": "Name",
+        "start": 0,
+        "end": 13,
+        "text": "Santosh Ganta"
+      },
+      {
+        "label": "Designation",
+        "start": 14,
+        "end": 37,
+        "text": "Senior Systems Engineer"
+      },
+      {
+        "label": "Location",
+        "start": 51,
+        "end": 60,
+        "text": "Bengaluru"
+      },
+      {
+        "label": "Email Address",
+        "start": 94,
+        "end": 137,
+        "text": "indeed.com/r/Santosh-Ganta/4270d63f03e71ee8"
+      },
+      {
+        "label": "Location",
+        "start": 163,
+        "end": 172,
+        "text": "Bengaluru"
+      },
+      {
+        "label": "Designation",
+        "start": 246,
+        "end": 269,
+        "text": "Senior Systems Engineer"
+      },
+      {
+        "label": "Companies worked at",
+        "start": 271,
+        "end": 286,
+        "text": "Infosys Limited"
+      },
+      {
+        "label": "Degree",
+        "start": 449,
+        "end": 481,
+        "text": "B.Tech in Information Technology"
+      },
+      {
+        "label": "College Name",
+        "start": 483,
+        "end": 525,
+        "text": "GMR Institute of Technology and Management"
+      },
+      {
+        "label": "Graduation Year",
+        "start": 555,
+        "end": 559,
+        "text": "2013"
+      },
+      {
+        "label": "College Name",
+        "start": 561,
+        "end": 584,
+        "text": "Pratibha Junior College"
+      },
+      {
+        "label": "Graduation Year",
+        "start": 586,
+        "end": 590,
+        "text": "2009"
+      },
+      {
+        "label": "College Name",
+        "start": 608,
+        "end": 646,
+        "text": "S.R high School -  Chennai, Tamil Nadu"
+      },
+      {
+        "label": "Graduation Year",
+        "start": 648,
+        "end": 652,
+        "text": "2006"
+      },
+      {
+        "label": "Skills",
+        "start": 662,
+        "end": 775,
+        "text": "CA7 (4 years), DB2 (4 years), QMF (4 years), Cobol (4 years), Mainframe (4 years), Cics (4\nyears), Rexx (4 years)"
+      },
+      {
+        "label": "Skills",
+        "start": 958,
+        "end": 1203,
+        "text": "Tools: ISPF, SPUFI, QMF, File-Aid, MainView, Librarian, CA7, Control-M, Xpeditor\n• Operating System: Windows 7\n• Database: DB2, SQL Server\n• Domain: Retail\n• Packages: MS office\n\n• Secondary Skills: Java Script, HTML, JSP, Java, Oracle 10g, Unix"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "content": "Sanand Pal\nSQL and MSBI Developer with experience in Azure SQL and Data Lake\nstore.\n\nHyderabad, Telangana - Email me on Indeed: indeed.com/r/Sanand-Pal/5c99c42c3400737c\n\nI intend to establish myself as Software Engineer / architect with an integrated business solution\nprovider through a long time commitment, contributing to the company's growth and in turn\nensuring personal growth within the organization. I believe that my technical, functional and\ncommunication skills will enable me in facing the challenging career ahead.\n\nWilling to relocate to: Kolkata, West Bengal - hyderbad, Telangana\n\nWORK EXPERIENCE\n\nAssistant Consultant\n\nTCS\n\n• Expertise in SQL Server(2008 R2, 2012, 2014) development, Microsoft BI (SSIS)\n• Experience with Microsoft BI (SSAS, SSRS), ASP.NET, VSTO, C#.\n• Experience in all the phases of Software Development Life Cycle (SDLC).\n• Experience in Business Requirements Analysis, meeting customer expectations.\n• Have had the opportunity to handle and work in multiple projects at a time.\n• Experience in working both independently and in a team-oriented, collaborative environment.\n• Excellent written and verbal communication skills, good analytical and problem solving skills.\n\nSQL and SSIS developer/Sustain resource\n\nMICROSOFT -  Hyderabad, Telangana -\n\nAugust 2011 to June 2016\n\nProject\nUS EPG Forecast Workbook (FWB) application is designed to support the US Enterprise Partner\nGroup (US EPG) in producing and maintaining the monthly US sales forecast. It is a transactional\ndatabase combined with Microsoft Office Excel functionality that enables end users to interact\nwith the USNAForecast database. Typically, an ATU manager will connect to the corporate network\nand download data from the forecast database, which creates an offline forecast workbook. This\ndata can then be accessed offline, modelled, and changes to certain data fields are subsequently\nuploaded back to the forecast database through a CorpNet connection. These changes are then\nstored in the online database and subsequently loaded back into upstream systems.\n\nResponsibilities\n• Involved in the Technical discussions/Sessions and efforts estimations and reviews.\n• Involved in analysis of the Bugs/ Issues/defects/CRs.\n• Involved in change requests on VSTO Excel application.\n• Involved in design of database, tables and stored procedures.\n• Developed SQL Server Integration Services packages for ETL process.\n• Unit testing and bug fixing of the code.\n\nhttps://www.indeed.com/r/Sanand-Pal/5c99c42c3400737c?isid=rex-download&ikw=download-top&co=IN\n\n\n• Actively solved the issues that raised during the integration cycle\n• Performed build verification and Smoke tested all the defects raised before giving a delivery.\n• Prepared and updated FS, TS and deployment guides.\n• Provided knowledge sharing to Users\n• Provided post implementation support\n• Promptly check in the final Code in VSTF.\n\nHyderabad, India\n\nEDUCATION\n\nBachelor of Technology in Branch\n\nEast Point College of Engg. & Tech. -  Bengaluru, Karnataka\n\nJune 2006 to July 2010\n\nSKILLS\n\nSql Server, Ssis, T-SQL, ETL, SSRS",
+    "entities": [
+      {
+        "label": "Name",
+        "start": 0,
+        "end": 10,
+        "text": "Sanand Pal"
+      },
+      {
+        "label": "Designation",
+        "start": 11,
+        "end": 33,
+        "text": "SQL and MSBI Developer"
+      },
+      {
+        "label": "Location",
+        "start": 85,
+        "end": 95,
+        "text": "Hyderabad,"
+      },
+      {
+        "label": "Email Address",
+        "start": 128,
+        "end": 168,
+        "text": "indeed.com/r/Sanand-Pal/5c99c42c3400737c"
+      },
+      {
+        "label": "Designation",
+        "start": 615,
+        "end": 635,
+        "text": "Assistant Consultant"
+      },
+      {
+        "label": "Companies worked at",
+        "start": 637,
+        "end": 640,
+        "text": "TCS"
+      },
+      {
+        "label": "Location",
+        "start": 1263,
+        "end": 1273,
+        "text": "Hyderabad,"
+      },
+      {
+        "label": "Email Address",
+        "start": 2474,
+        "end": 2514,
+        "text": "indeed.com/r/Sanand-Pal/5c99c42c3400737c"
+      },
+      {
+        "label": "Location",
+        "start": 2900,
+        "end": 2910,
+        "text": "Hyderabad,"
+      },
+      {
+        "label": "Degree",
+        "start": 2929,
+        "end": 2961,
+        "text": "Bachelor of Technology in Branch"
+      },
+      {
+        "label": "College Name",
+        "start": 2963,
+        "end": 2998,
+        "text": "East Point College of Engg. & Tech."
+      },
+      {
+        "label": "Graduation Year",
+        "start": 3042,
+        "end": 3046,
+        "text": "2010"
+      },
+      {
+        "label": "Skills",
+        "start": 3056,
+        "end": 3090,
+        "text": "Sql Server, Ssis, T-SQL, ETL, SSRS"
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "content": "Paul Rajiv\nSecunderabad, Andhra Pradesh - Email me on Indeed: indeed.com/r/Paul-\nRajiv/2bd46ce0f01fad54\n\nWilling to relocate: Anywhere\n\nWORK EXPERIENCE\n\nDelivery Specialist\n\nMicrosoft -  hyderbad, Telangana -\n\nApril 2017 to Present\n\nRegal Raptor Motorcycles India:\nA growing automobile company, being the manufacturers and distributors of premium choppers\ncruiser motorcycles across PAN India and SAARC countries.\n\nChief Operations Officer [COO]:\nDirected all facets of the manufacturing, purchasing and sales initiatives for the company.\nProvided direction for sales strategies and co-ordinated assembling functions domestically.\n\n♦ Effective planning and implementation of defined SOP's\n♦ Spearheaded the development of the brand \"Regal Raptor\" becoming one of the most\nrecognisable names in the Industry.\n♦ Proven success in sales and marketing through expertise business development modules and\nstrategic planning capabilities.\n♦ Achieved a significant result in unit sales percentage per annum during the year 2015-2016\nwith a 30% extensive increase rate.\n♦ Enabled a unique marketing strategy by manufacturing India's First fully equipped Police Bike\nwhich indeed helped in penetrating the brand across India.\n♦ Demonstrated and delegated the effective usage of the newly launched police bike to all the\ntop government officials and leaders across the states in India.\n♦ Developed cutting edge technology to be instilled in the product lines which enables problem\nsolving methodologies at break next speed and enhances competitiveness in the modern day\nbusiness.\n♦ Motivated and led a productive sales and customer service oriented teams of support\nexecutives with many receiving continuous accolade for superior performance.\n♦ Developed a strong relationship with vendors, dealers and distributors by constantly working\ntowards expanding business and building markets across PAN India.\n♦ Effective negotiation of costs to meet the gross margin goals.\n♦ Put in significant efforts in planning to set up a Manufacturing plant within the state of\nTelangana to carry out complete production activities and exports business between the SAARC\ncountries\n♦ Constantly worked upon building a strong network among the top government officials to\nfacilitate the sanction of the Manufacturing plant set up in india.\n\nhttps://www.indeed.com/r/Paul-Rajiv/2bd46ce0f01fad54?isid=rex-download&ikw=download-top&co=IN\nhttps://www.indeed.com/r/Paul-Rajiv/2bd46ce0f01fad54?isid=rex-download&ikw=download-top&co=IN\n\n\nEDUCATION\n\nBachelor of Commerce in Commerce business management\n\nCollege (Osmania University) -  Hyderabad, Andhra Pradesh\n\n2011 to 2014\n\nBoard of Intermediate Education\n\n2009 to 2011\n\nSSC\n\nSt. Patrick's High School\n\n2009\n\nADDITIONAL INFORMATION\n\nSpecialties: Process Optimization, Strategic Management, Profit Centre Management, Customer\ncare strategies, Lean Management, Sales Overheads and Effective Management of Marketing\nstrategies and Manufacturing plant enablement's.\n\nJob Role &amp; Corporate Dossier:\n[DELL]\nA Corporate executive with substantial potential in business management, corporate strategy\nand business expansion.\n\n♦ Worked for Dell International Services, and Carrying an experience of 28 months +\n♦ Worked as a Customer Services Executive for UK/Ireland Regions.\n♦ Front Line working directly along with Customers to Resolve the Query in their best interest.\nHandle Few Major &amp; Minor Escalation in place for Swift Closure with Satisfaction.\n♦ Working with Mutual Business Vendors to get issues going on motion for immediate impact.\n♦ I have been excellent in the existing task, Job description with exceptional numbers winning\nthe Monthly Stacks for 3 times with Consecutive improvement every time.\n♦ I have handled some critical issues with very smooth processing &amp; assurance to customer\nsatisfaction having earned many recognitions with in Dell &amp; outside Dell Clients.\n♦ I have much more recognitions, feedback &amp; success stories to share.\n♦ Hence, I look forward for progression, advancement in my career to grow using the above\nmentioned skills &amp; make a difference in contribution towards expansion in any business\nfields.\n\nACADEMIA\n\nAdditional Qualifications\n\n♦ Good knowledge in Accounting Standards\n♦ Basic knowledge on Java\n♦ Web Technologies: HTML, DHTML, XML, Visual Basic, COBOL, DBMS\n♦ Operating system: Windows-xp, Windows -Vista &amp; Windows-7\n\n\n\n♦ Packages: MS-Office &amp; Basic knowledge in tally (Accounting Systems)\n\nExternal Project Experience:\n\n♦ Worked on Manufacturing India's First Fully Equipped Police Bike or FAB Motors India Pvt. Ltd,\n2017\n♦ Worked on an Industrial Project for Masqati India Pvt. Ltd, 2013.\n♦ Worked on a Stream based Project on Women Harassment and Empowerment in India, 2014.\n\nStrengths and Abilities\n\n♦ Self- Development, Communication, Interpersonal and Problem Solving Skills.\n♦ Willing to travel extensively according to the job requirements.\n♦ Team Work, Flexible, Punctual and Interest to Learn New Things.\n♦ A self-motivated and diligent team player possessing highly evolved and demonstrable\ncommunication.",
+    "entities": [
+      {
+        "label": "Name",
+        "start": 0,
+        "end": 10,
+        "text": "Paul Rajiv"
+      },
+      {
+        "label": "Location",
+        "start": 11,
+        "end": 23,
+        "text": "Secunderabad"
+      },
+      {
+        "label": "Email Address",
+        "start": 62,
+        "end": 103,
+        "text": "indeed.com/r/Paul-\nRajiv/2bd46ce0f01fad54"
+      },
+      {
+        "label": "Designation",
+        "start": 153,
+        "end": 172,
+        "text": "Delivery Specialist"
+      },
+      {
+        "label": "Companies worked at",
+        "start": 174,
+        "end": 183,
+        "text": "Microsoft"
+      },
+      {
+        "label": "Degree",
+        "start": 2513,
+        "end": 2565,
+        "text": "Bachelor of Commerce in Commerce business management"
+      },
+      {
+        "label": "College Name",
+        "start": 2576,
+        "end": 2594,
+        "text": "Osmania University"
+      },
+      {
+        "label": "Graduation Year",
+        "start": 2634,
+        "end": 2638,
+        "text": "2014"
+      },
+      {
+        "label": "Graduation Year",
+        "start": 4729,
+        "end": 4733,
+        "text": "smen"
+      }
+    ]
+  },
+  {
+    "id": 190,
+    "content": "Pawan Nag\nMicrosoft Certified System Engineer\n\nDelhi, Delhi - Email me on Indeed: indeed.com/r/Pawan-Nag/e14493f28cb72022\n\nWORK EXPERIENCE\n\nMicrosoft Certified System Engineer\n\nMCSA -\n\n2000 to 2000\n\nCorporate Trainings in India\n\nEDUCATION\n\nAMIE sec A\n\nTraining Program\n\n2018\n\nLINKS\n\nhttps://mcp.microsoft.com/Anonymous//Transcript/Validate\n\nADDITIONAL INFORMATION\n\nSkill Summary:\nOperating Systems:\n• Windows Server 2000, 2003, 2008, 2012, 2012R2.\n• Exchange 2003, 2007, 2010, 2013,\n\nDate […] (Name)\nPawan Nag\n\nhttps://www.indeed.com/r/Pawan-Nag/e14493f28cb72022?isid=rex-download&ikw=download-top&co=IN\nhttps://mcp.microsoft.com/Anonymous//Transcript/Validate",
+    "entities": [
+      {
+        "label": "Name",
+        "start": 0,
+        "end": 9,
+        "text": "Pawan Nag"
+      },
+      {
+        "label": "Designation",
+        "start": 10,
+        "end": 19,
+        "text": "Microsoft"
+      },
+      {
+        "label": "Designation",
+        "start": 20,
+        "end": 45,
+        "text": "Certified System Engineer"
+      },
+      {
+        "label": "Location",
+        "start": 47,
+        "end": 52,
+        "text": "Delhi"
+      },
+      {
+        "label": "Location",
+        "start": 54,
+        "end": 59,
+        "text": "Delhi"
+      },
+      {
+        "label": "Email Address",
+        "start": 82,
+        "end": 121,
+        "text": "indeed.com/r/Pawan-Nag/e14493f28cb72022"
+      },
+      {
+        "label": "Designation",
+        "start": 140,
+        "end": 149,
+        "text": "Microsoft"
+      },
+      {
+        "label": "Designation",
+        "start": 150,
+        "end": 175,
+        "text": "Certified System Engineer"
+      },
+      {
+        "label": "Degree",
+        "start": 240,
+        "end": 250,
+        "text": "AMIE sec A"
+      },
+      {
+        "label": "Skills",
+        "start": 380,
+        "end": 398,
+        "text": "Operating Systems:"
+      },
+      {
+        "label": "Name",
+        "start": 500,
+        "end": 509,
+        "text": "Pawan Nag"
+      },
+      {
+        "label": "Email Address",
+        "start": 523,
+        "end": 562,
+        "text": "indeed.com/r/Pawan-Nag/e14493f28cb72022"
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "content": "Jacob Philip\nKottayam, Kerala - Email me on Indeed: indeed.com/r/Jacob-Philip/db00d831146c9228\n\nStrategicSales,\nexperienceinSales,\nskills.Currently,\nsuccess.\n\nWORK EXPERIENCE\n\nSales and marketing specialist\n\nASSISTANTBUSINESSDEVELOPMENTMANAGER -  Dubai, AE -\n\nFebruary 2017 to October 2017\n\nUAE\n• -Builtstrong\nclientrelationshipsandprovidedhighvalue-addingservices, resultingina15% company\nmarketshareincrease\n• Developstools,\npracticesacrosstheorganization\n• Negotiatingcontractsandpackages, Negotiatingthetermsofanagreementwithaviewto\nclosingsale\n•, expense, andnew\nbusinessdata\n• WorkedcloselywithPartners,\nthroughconductingqualityassurancetests.Actasthepointofcontactandcommunicate\nprojectstatustoallparticipantsinourteam\n\nORDINATOR\n\nMARKETINGCO -\n\nJanuary 2015 to June 2016\n\nBhimaJewelers\nKerala, India\n•, and systemreportforms\n• Plannedandexecutedeventsandmarketingprograms, producingfivetimestargetnumberof\nqualifiedleads\n• Implements marketing and advertising campaigns by assembling and analyzing sales\nforecastsandincreasedperformanceby52percent\n• Preparesmarketingreportsbycollecting, analyzing, andsummarizingsalesdata\n• Assignedtaskstoassociates, staffedprojects, trackedprogressandupdatedmanagers, and clients\n\nAtlas star medical center\n\nCUSTOMERSERVICEEXECUTIVE -  Dubai, AE -\n\nhttps://www.indeed.com/r/Jacob-Philip/db00d831146c9228?isid=rex-download&ikw=download-top&co=IN\n\n\nDecember 2012 to May 2014\n\nUnitedArabEmirates\n• Maintainandorganizeacustomerdatabaseofover10, 000members\n• Evaluatedpatientcareneeds, prioritizedtreatment, andmaintainedpatientflow\n• Responsibleforprimarycare, casemanagement, andmedicationmanagement\n• Dealtwithinsurancecards, cashcollection, billing, ande-claims;inadditiontohandling\nincomingcallsorenquiriesfrompatients\n•, and systemreportforms\n\nSun infosys\n\nSALESOFFICER -\n\nJuly 2010 to July 2012\n\nSun-Infosystems\nKerala, India\nincreasedcompanyexposure, customertraffic, andsales\nmaterialsforsalespresentationsandclientmeetings\n• Inadditiontoinventoryrecordingandmaintainstocks, assignedtaskstoassociates, staffed\nprojects, trackedprogressandupdatedmanagers, partnersandclientsasnecessary\n\nEDUCATION\n\nBachelor's\n\nSKILLS\n\nExcel (Less than 1 year), Word (Less than 1 year)\n\nLINKS\n\nhttps://www.linkedin.com/in/jacob-philip-a52744138\n\nADDITIONAL INFORMATION\n\nCORECOMPETENCIES:\n• Meetdead-lineswitheaseandefficiency\n• Pleasantandeffectivecustomerservice&amp;managementskills\n• FluentinEnglish, Hindi, Tamil, andMalayalamLanguages\n• StrongunderstandingofMicrosoftOffice (Excel, Word, andPowerpoint)\n\nhttps://www.linkedin.com/in/jacob-philip-a52744138",
+    "entities": [
+      {
+        "label": "Name",
+        "start": 0,
+        "end": 12,
+        "text": "Jacob Philip"
+      },
+      {
+        "label": "Location",
+        "start": 13,
+        "end": 21,
+        "text": "Kottayam"
+      },
+      {
+        "label": "Email Address",
+        "start": 52,
+        "end": 94,
+        "text": "indeed.com/r/Jacob-Philip/db00d831146c9228"
+      },
+      {
+        "label": "Designation",
+        "start": 176,
+        "end": 206,
+        "text": "Sales and marketing specialist"
+      },
+      {
+        "label": "Email Address",
+        "start": 1305,
+        "end": 1347,
+        "text": "indeed.com/r/Jacob-Philip/db00d831146c9228"
+      },
+      {
+        "label": "Companies worked at",
+        "start": 1789,
+        "end": 1800,
+        "text": "Sun infosys"
+      },
+      {
+        "label": "Degree",
+        "start": 2145,
+        "end": 2155,
+        "text": "Bachelor's"
+      },
+      {
+        "label": "Skills",
+        "start": 2165,
+        "end": 2214,
+        "text": "Excel (Less than 1 year), Word (Less than 1 year)"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "content": "Samyuktha Shivakumar\nLooking for strategic opportunities in the field of marketing\n\nBangalore, Karnataka - Email me on Indeed: indeed.com/r/Samyuktha-Shivakumar/\ncabce09fe942cb85\n\nWORK EXPERIENCE\n\nMarketing Operations Specialist & Product Marketer\n\nThoughtWorks -  Bengaluru, Karnataka -\n\nAugust 2012 to June 2016\n\nProduct Marketer - GoCD, ThoughtWorks Studios\n* Responsible for shaping the product marketing strategy of GoCD, an open source continuous\ndelivery product supported by ThoughtWorks\n* Worked cross-functionally with product research and development, design, customer operations\nand PR to deliver integrated go-to-market strategies for new app releases and product launches\n* Led research initiatives analyzing behavioural metrics, driving and monitoring member insights,\nand owning competitive insights by using tools like Google Analytics\n* Project headed the revamp of the GoCD website by working in tandem with the design and\ndevelopment team\n* Established a consistent process to handle the launch of new product versions and ensured it\nworked on a recurring basis\n* Worked with the development and management team to publish relevant content to the open\nsource community on a regular basis\n* Built a strong digital marketing strategy and leveraged the use of several tools to stay on top\nthe product's online presence and reach:\n◦ BuzzSumo, Hootsuite, and Tweet Deck for social media marketing\n◦ Google Adwords for SEO\n◦ Buzzstream, Medium, Wistia and Quora for content marketing\n\nMarketing Operations Specialist - Global Marketing\n* Planned and executed global marketing events to build email campaigns, target audience lists,\ncommunication collateral and follow-up processes\n* Expert user of the marketing automation tool Marketo; worked with regional marketing teams\nglobally to set up their systems from scratch\n* Proactively worked on identifying new customer groups and developed optimal channels to\nreach them\n* Led the creation and management of a marketing performance dashboard that reported on\nmarketing investment, conversion, and overall campaign performance\n* Responsible for providing reliable and consistent metrics on the effectiveness of marketing\ncampaigns to stakeholders, and strategies to improve them\n* Worked in tandem with the design team to develop email and landing page templates, and\ncreated relevant content for them\n* Provided expertise and guidance about marketing automation best practices to global\nmarketing teams by setting internal benchmarks, and ensuring high quality across all regional\ncampaigns\n\nhttps://www.indeed.com/r/Samyuktha-Shivakumar/cabce09fe942cb85?isid=rex-download&ikw=download-top&co=IN\nhttps://www.indeed.com/r/Samyuktha-Shivakumar/cabce09fe942cb85?isid=rex-download&ikw=download-top&co=IN\n\n\n* Established an effective process for onboarding new users to Marketo, and developed the\nrequired training material\n* Co-ordinated with sales leads to develop an ongoing program that managed all stages of lead\ndevelopment, from cold nurtured inquiries to closed opportunities, ensuring timely follow-up on\nqualified leads\n\nHighlights at ThoughtWorks:\n• Successfully worked with marketing teams in US, UK, Australia, China, Brazil, South Africa and\nUganda\n• Underwent training with expert Marketo consultants in San Mateo, USA\n• Spoke at a number of internal conferences on the impact of marketing automation on business\nand related topics\n• Consistently recognised by management for working effectively with globally distributed team\nmembers and successfully completing campaigns\n\nMarketing Specialist\n\nOracle -  Bengaluru, Karnataka -\n\nJune 2009 to July 2012\n\nMarketing Specialist – Hardware Programs Lead \n♣ Designed and executed campaigns based on key industry trends and strategic market\nopportunities\n♣ Developed innovative programs aligned to business requirements and sales priorities\n♣ Worked on campaign target lists, key messages, calls to action and success metrics\n♣ Aligned closely with stakeholders like Product Marketing, Field Marketing, Sales Consulting and\nSales Management teams to execute campaigns\n♣ Published regular reports on program results, highlighting patterns, growth trends, best\npractices and key learnings\n♣ Ensured sales team’s readiness through effective sales training and continually worked to\noptimize processes \n\nBusiness Analyst - Channel Support Specialist \n♣ Extended complete sales support to Oracle North America Alliances & Channel Sales team\n♣ Assisted Field Channel Managers in indirect deal closures with complete operations support\nfrom order to cash\n♣ Primary point of contact to the four exclusive distributors of Oracle and other tier two partners\nin the North America region\n♣ Managed the non-standard approval requests through Oracle’s unified approval chain\n♣ Supported Group Sales Director in identifying new growth areas & practices in line with sales\nstrategies\n\nHighlights at Oracle:\n• Was awarded the ‘Most Valuable Player’, an accolade given to the top performer of the team \n• Winner of an internal contest for achieving the highest SLA on a consecutive basis\n• Instrumental in training the new hires and on-boarding them within a short span of time\n• Recognised by senior management for being a key contributor to the sales team\n\nAnalyst - Operations\n\n\n\nTESCO -  Bengaluru, Karnataka -\n\nJune 2006 to November 2006\n\n♣ Worked as an analyst with the Accounts Payable team\n♣ Responsible for processing vendor invoices\n\nEDUCATION\n\nPost Graduate Diploma in Business Administration in Marketing and\nHuman Resource\n\nMount Carmel Institute of Management -  Bengaluru, Karnataka\n\nJune 2007 to May 2009\n\nSKILLS\n\nProject Management, Product Marketing, Campaigns Management, Digital Marketing, Social\nMedia Marketing, Marketing Operations, Content Marketing, Channels Operations, Marketo\nAdmin User, Microsoft Office, Cross Functional Marketing, Salesforce, Marketing Programs,\nGlobal Marketing, Marketo, Training\n\nLINKS\n\nhttps://www.linkedin.com/in/samyuktha-shivakumar-85568213/\n\nADDITIONAL INFORMATION\n\nCurrently on a break to be with toddler child. Looking to get back to work now.\n\nhttps://www.linkedin.com/in/samyuktha-shivakumar-85568213/",
+    "entities": [
+      {
+        "label": "Name",
+        "start": 0,
+        "end": 20,
+        "text": "Samyuktha Shivakumar"
+      },
+      {
+        "label": "Location",
+        "start": 84,
+        "end": 93,
+        "text": "Bangalore"
+      },
+      {
+        "label": "Email Address",
+        "start": 127,
+        "end": 178,
+        "text": "indeed.com/r/Samyuktha-Shivakumar/\ncabce09fe942cb85"
+      },
+      {
+        "label": "Degree",
+        "start": 5455,
+        "end": 5535,
+        "text": "Post Graduate Diploma in Business Administration in Marketing and\nHuman Resource"
+      },
+      {
+        "label": "College Name",
+        "start": 5537,
+        "end": 5573,
+        "text": "Mount Carmel Institute of Management"
+      },
+      {
+        "label": "Skills",
+        "start": 5630,
+        "end": 5929,
+        "text": "Project Management, Product Marketing, Campaigns Management, Digital Marketing, Social\nMedia Marketing, Marketing Operations, Content Marketing, Channels Operations, Marketo\nAdmin User, Microsoft Office, Cross Functional Marketing, Salesforce, Marketing Programs,\nGlobal Marketing, Marketo, Training"
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "content": "Deepika S\nTest Engineer - Infosys Ltd\n\n- Email me on Indeed: indeed.com/r/Deepika-S/1b4436206cf5871b\n\nWORK EXPERIENCE\n\nTest Engineer\n\nInfosys Ltd -  Chennai, Tamil Nadu -\n\nApril 2017 to Present\n\nTesting Executive, Infosys Ltd, Chennai\n\nE-publisher -  Coimbatore, Tamil Nadu -\n\nMay 2013 to July 2014\n\nSeptember 2014 - March 2017)\n\nTest Management Tool\n\nHP ALM -\n\n2012 to 2012\n\n• Domain: Retail, Banking\n• Utilities: Putty, WinScp.\n• Operating Systems: Windows XP/7/8\n\nPROFESSIONAL EXPOSURE \nSoftware Testing Projects\n\nCiti Bank -\n\n2005 to 2005\n\nDescription of the Project: The objective of the project is to track the Gifts and Entertainment\nprovided to or received from client or potential client or anyone else whom citi does business.\nCGE it is a web based application.\nAnd the project uses separate tool IFW for reporting.\nTesting Management Tool: ALM for tracking defect\nDuration: Nov 2016 to Till Date\n\nCustomer Service Representative\n\nTNT Express -\n\n2004 to 2004\n\nDescription of the Project: The Objective of the project is to use Salesforce for servicing the\ncustomer. TNT express is a courier company which does international business with more than 60\n\nhttps://www.indeed.com/r/Deepika-S/1b4436206cf5871b?isid=rex-download&ikw=download-top&co=IN\n\n\ncountries. They are using more than 30 applications for tracking their process and it is difficult to\nprovide service for the customer. This project integrates with all application and provided single\ninterface for customer service. Also it helps CSR (Customer Service Representative) to provide\nservice for the customer by tracking where exactly their consignment is placed and how much\ntime it will take to reach the destination. Also CSR can receive voice calls and place calls to the\ncustomer through salesforce.\n\nJob scheduling tool: Director Client\nTesting Management Tool\n\nUtilities\nDatabase tools\n\nDuration\n: ALM for tracking requirements, test plans, test execution, reporting and Defect tracking\n\n: WinScp, Putty\n\n: SQL Developer, DataStage for DB2\n\n: Mar 2016 - Oct 2016\n03 Project Name: CRM Sales\n\nClient: TNT Express\nDescription of the Project: The Objective of the project is to use Salesforce for customer\nrelationship management that stores customer contact information like names, addresses, and\nphone numbers. TNT express is a courier company which does international business with more\nthan 60 countries. They used CDB for storing customer information. This project integrates with\nCDB and extracts all customer information. And it creates opportunities for the customers.\n\nTesting Management Tool\n\nUtilities\nDatabase tools\n\nDuration\n: ALM for tracking requirements, test plans, test execution, reporting and Defect tracking\n\n: WinScp, Putty\n\n: SQL Developer\n\n: Jan 2016 - Feb 2016\n02 Project Name: CDB UI Changes\n\nClient: TNT express\nDescription of the Project\n\nTest Management Tool\n\n\n\nThe project is about TNT needs some UI Changes in the CDB application.\n\nALM\n\n01 Duration\nProject Name\nClient\nDescription of Project\n\nDevices tested\n\nDefect Management Tool\nDuration\n\nE-Pub\nClient\nDescription of Project\n\nEDUCATION\n\nB.Sc. in Computer Science\n\nBharathiyar University -  Coimbatore, Tamil Nadu\n\n2013",
+    "entities": [
+      {
+        "label": "Name",
+        "start": 0,
+        "end": 9,
+        "text": "Deepika S"
+      },
+      {
+        "label": "Designation",
+        "start": 10,
+        "end": 23,
+        "text": "Test Engineer"
+      },
+      {
+        "label": "Companies worked at",
+        "start": 26,
+        "end": 37,
+        "text": "Infosys Ltd"
+      },
+      {
+        "label": "Email Address",
+        "start": 61,
+        "end": 100,
+        "text": "indeed.com/r/Deepika-S/1b4436206cf5871b"
+      },
+      {
+        "label": "Designation",
+        "start": 119,
+        "end": 132,
+        "text": "Test Engineer"
+      },
+      {
+        "label": "Location",
+        "start": 149,
+        "end": 156,
+        "text": "Chennai"
+      },
+      {
+        "label": "Companies worked at",
+        "start": 214,
+        "end": 225,
+        "text": "Infosys Ltd"
+      },
+      {
+        "label": "Location",
+        "start": 227,
+        "end": 234,
+        "text": "Chennai"
+      },
+      {
+        "label": "Graduation Year",
+        "start": 281,
+        "end": 285,
+        "text": "2013"
+      },
+      {
+        "label": "Degree",
+        "start": 3093,
+        "end": 3118,
+        "text": "B.Sc. in Computer Science"
+      },
+      {
+        "label": "College Name",
+        "start": 3120,
+        "end": 3142,
+        "text": "Bharathiyar University"
+      },
+      {
+        "label": "Graduation Year",
+        "start": 3170,
+        "end": 3174,
+        "text": "2013"
+      }
+    ]
+  },
+  {
+    "id": 193,
+    "content": "Moumita Mitra\n- Email me on Indeed: indeed.com/r/Moumita-Mitra/d63c4dc9837860db\n\nWORK EXPERIENCE\n\nInternational Maths Olympiad -\n\n2017 to 2017\n\n3. Teaching with technology 2016\n4. Educator Community Contributor\n\nCertified Microsoft Innovative Educator\n\nInternational Maths Olympiad -  Allahabad, Uttar Pradesh -\n\n2017 to 2017\n\n6. Problem based learning\n\nCo-curricular certificates: -\n\n1. Junior diploma in vocal from Prayag sangit samiti, Allahabad\n\n2. Chitra bhushan (part I) 1st year from pracheen kala Kendra, Chandigarh\n\n3. Certificate in kathak dance from Prayag sangit samiti, Allahabad\n\nActivities: -\nDissertation/ review work\n\n1.Glucagon like peptide 1:Incretin based therapies for type 2 diabetes; a focus on Exenatide\n\n2.Targeting antigen specific T cells for gene therapy of Multiple Sclerosis\n\n3.To see the role of synthetic blocking peptides that compete with autoantigens for binding to\nMHC molecule as immunotherapy of Hashimoto's thyroiditis.\n\nCU Zoology -\n\n2013 to 2013\n\n4. Participated in Poster Presentation on the topic \"Neurotoxins and its medicinal values: with\nspecial emphasis on snake neurotoxic venom\" in a one day colloquium in Spring talks at CU\nZoology 2013\n\n5. Attended UGC Sponsored National Level Seminar on \"Rediscovering 100 years of journey on\nthe field of Immunology: Present status of immunological research in India\n\nhttps://www.indeed.com/r/Moumita-Mitra/d63c4dc9837860db?isid=rex-download&ikw=download-top&co=IN\n\n\nEDUCATION\n\nEngineering\n\nWest Bengal State\n\n2015\n\nM.Sc in biology\n\nBallygunge Science College -  Kolkata, West Bengal\n\n2014\n\nB.Sc in West Bengal State\n\nBarrackpore Rastraguru Surendranath College -  Barakpur, West Bengal\n\n2012\n\nArmy Public School -  Barakpur, West Bengal\n\n2009\n\nC.B.S.E\n\nSt. Paul's Academy -  Patna, Bihar\n\n1978 to 2007\n\nBoard/ University\n\nSKILLS\n\nEXCEL (Less than 1 year), OUTLOOK (Less than 1 year), POWERPOINT (Less than 1 year),\nWORD (Less than 1 year)\n\nADDITIONAL INFORMATION\n\nSkills: -\n\nComputer: Proficient in Windows, Word, Excel, Outlook, PowerPoint Language: Fluent in verbal\nand written English, Hindi and Bengali",
+    "entities": [
+      {
+        "label": "Name",
+        "start": 0,
+        "end": 13,
+        "text": "Moumita Mitra"
+      },
+      {
+        "label": "Email Address",
+        "start": 36,
+        "end": 79,
+        "text": "indeed.com/r/Moumita-Mitra/d63c4dc9837860db"
+      },
+      {
+        "label": "Degree",
+        "start": 1465,
+        "end": 1476,
+        "text": "Engineering"
+      },
+      {
+        "label": "Degree",
+        "start": 1478,
+        "end": 1495,
+        "text": "West Bengal State"
+      },
+      {
+        "label": "Degree",
+        "start": 1503,
+        "end": 1518,
+        "text": "M.Sc in biology"
+      },
+      {
+        "label": "College Name",
+        "start": 1520,
+        "end": 1546,
+        "text": "Ballygunge Science College"
+      },
+      {
+        "label": "Degree",
+        "start": 1578,
+        "end": 1582,
+        "text": "B.Sc"
+      },
+      {
+        "label": "Degree",
+        "start": 1586,
+        "end": 1603,
+        "text": "West Bengal State"
+      },
+      {
+        "label": "College Name",
+        "start": 1605,
+        "end": 1648,
+        "text": "Barrackpore Rastraguru Surendranath College"
+      },
+      {
+        "label": "College Name",
+        "start": 1681,
+        "end": 1699,
+        "text": "Army Public School"
+      },
+      {
+        "label": "Degree",
+        "start": 1732,
+        "end": 1739,
+        "text": "C.B.S.E"
+      },
+      {
+        "label": "College Name",
+        "start": 1741,
+        "end": 1759,
+        "text": "St. Paul's Academy"
+      },
+      {
+        "label": "Skills",
+        "start": 1818,
+        "end": 1926,
+        "text": "EXCEL (Less than 1 year), OUTLOOK (Less than 1 year), POWERPOINT (Less than 1 year),\nWORD (Less than 1 year)"
+      },
+      {
+        "label": "Skills",
+        "start": 1963,
+        "end": 2094,
+        "text": "Computer: Proficient in Windows, Word, Excel, Outlook, PowerPoint Language: Fluent in verbal\nand written English, Hindi and Bengali"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "content": "Shrishti Chauhan\nHave total work experience of 2.5 years on Oracle Fusion Middleware -\nSOA, WebLogic and MFT Module.\n\nBilaspur, Chhattisgarh - Email me on Indeed: indeed.com/r/Shrishti-\nChauhan/89d7feb4b3957524\n\nSeeking to hone and enhance my technical skills in Oracle Fusion Middleware while working as\na professional in challenging and goal oriented environment.\n\nWilling to relocate to: Bengaluru, Karnataka\n\nWORK EXPERIENCE\n\nTechnical Consultant\n\nOracle -  Bengaluru, Karnataka -\n\nOctober 2015 to Present\n\n• Have total work experience of 2.5 years on Oracle Fusion Middleware - SOA, WebLogic and\nMFT Module.\n\n• Have extensively worked on Support, Testing, Cloning, Monitoring and Maintenance support\nand Enhancement for the E-Commerce Project with multi system module.\n\n• Have good understanding on End-to-End Business Process.\n\n• Experience in developing and deploying BPEL Processes using technology adapters (DB\nAdapter, File Adapter, FTP Adapter and JMS Adapter).\n\n• Part of a team for developing a BPEL process to integrate Oracle Fusion Applications. This\nOrchestrated BPEL Process had process activities like data conversion, transformation and fault\nhandling.\n\n• Developed and deployed BPEL processes to import sales order and add lines to the sales order\nimported from external sources (Files and Databases) into Order Orchestration Module.\n\n• Worked on BPEL process to create sales order within Order Orchestration Module using SOAPUI\nand Enterprise Manage.\n\n• Have good understanding on Synchronous and Asynchronous processes, Transformations, XSD,\nXSLT and XPath\n\n• Installation of Middle tier application server (SOA Suite 11g), configuring and deploying\napplication adapters and integrating with other ERP or 3rd Party Services.\n\n• Working with the client team and communicating with the business teams regarding integration\nwith external Delivery System.\n\nhttps://www.indeed.com/r/Shrishti-Chauhan/89d7feb4b3957524?isid=rex-download&ikw=download-top&co=IN\nhttps://www.indeed.com/r/Shrishti-Chauhan/89d7feb4b3957524?isid=rex-download&ikw=download-top&co=IN\n\n\n• As an Oracle Technical Consultant I was responsible for providing End-to-End support in the\nproject for Oracle Fusion Middleware.\n\n• Good understanding of Service Oriented Architecture (SOA) with the middleware technologies\nfor application integration.\n\nTechnical Consultant\n\nOracle\n\nHave total work experience of 2.5 years on Oracle Fusion Middleware - SOA, WebLogic and MFT\nModule.\n\nEDUCATION\n\nC.S.\n\nCHHATTISGARH SWAMI VIVEKANANDA TECHNICAL UNIVERSITY\n\n2011 to 2015\n\nSKILLS\n\nXml, Oracle MFT, Core Java, Oracle SOA, WSDL, ODI\n\nADDITIONAL INFORMATION\n\nTECHNICAL SKILL SET\nERP Packages Oracle Fusion Middleware and Oracle Fusion Application (DOO/GOP)\nFusion Middleware Modules Oracle SOA, MFT and Web Logic (11G and 12C Version)\nAdapters Database, JMS, FTP and File\nTools JDeveloper, Enterprise Manager, Administrative Console, SOAP UI and BI Publisher\nProgramming Languages XML, C++ and Core Java\nDatabases SQL\nOperating System Unix and Windows\n\nPROJECT DETAILS\nProject Client HOLTS RENFREW\nRole & Duration Technical Consultant Oct-15\nScope of Project Oracle Fusion Middleware 11G and Oracle Fusion Application R12\nProject Description\nHolt Renfrew is 180 years old chain of high-end Canadian department stores specializing in an\narray of luxury brands and designer boutiques.\n\nResponsibilities\n• Worked as Technical Consultant to the customer for the issues related to Oracle SOA (mainly\nBPEL and Mediator Components).\n• Providing daily Server Health Check for SOA and DOO/GOP (SCM) to the customer.\n• Attending/Conducting weekly customer calls and providing an update about the progress of\nthe issues.\n\n\n\n• Interacting with the Clients to understand the requirement and details of the issues and\nproviding suggestions/answers to their queries.\n• Resolving technical issues and enhancement raised by the customer.\n• Reviewing work products from the Team Members and delivering products to the client on time\nwith high quality.\n• RCA for the Complex Issues in client's version of Oracle SOA and SCM.\n• Partially worked on functional issues related to DOO/GOP - Order Management and Inventory\nManagement.\n• Working effectively with Oracle Product Support for any issue related to Standard Functionality.\n\nProject Client WHITBREAD PLC\nRole & Duration Technical Consultant SEPT-17\nScope of Project Oracle Fusion Middleware 12C and Oracle SAAS\nProject Description\nWhitbread PLC is the UK's largest hospitality company, owning Premier Inn and Costa Coffee, as\nwell as Beefeater, Brewers Fayre, and Bar Block.\n\nResponsibilities\n• Worked as Technical Consultant to the customer for the issues related to Oracle SOA and MFT.\n• Monitoring Critical Process and fixing the concurrent process running on SOA, MFT and ODI.\n• Worked on developing and executing Integration Regression Test Script.\n• Developing Application Understanding Documents for the Standard functionalities.\n• Interacting with the Clients to understand the requirement and details of the issues and\nproviding suggestions/answers to their queries.\n• Resolving technical issues and enhancement raised by the customer.\n• Reviewing work products from the Team Members and delivering products to the client on time\nwith high quality.\n• RCA for the Complex Issues in client's version of Oracle SOA and SCM.\n• Working effectively with Oracle Product Support for any issue related to Standard Functionality.\n• Co-ordinate internally with various teams, executives in providing the decisions to various\nfactors influencing the project implementation",
+    "entities": [
+      {
+        "label": "Name",
+        "start": 0,
+        "end": 16,
+        "text": "Shrishti Chauhan"
+      },
+      {
+        "label": "Years of Experience",
+        "start": 47,
+        "end": 56,
+        "text": "2.5 years"
+      },
+      {
+        "label": "Companies worked at",
+        "start": 60,
+        "end": 84,
+        "text": "Oracle Fusion Middleware"
+      },
+      {
+        "label": "Location",
+        "start": 118,
+        "end": 126,
+        "text": "Bilaspur"
+      },
+      {
+        "label": "Companies worked at",
+        "start": 263,
+        "end": 287,
+        "text": "Oracle Fusion Middleware"
+      },
+      {
+        "label": "Designation",
+        "start": 430,
+        "end": 450,
+        "text": "Technical Consultant"
+      },
+      {
+        "label": "Companies worked at",
+        "start": 452,
+        "end": 458,
+        "text": "Oracle"
+      },
+      {
+        "label": "Graduation Year",
+        "start": 494,
+        "end": 498,
+        "text": "2015"
+      },
+      {
+        "label": "Years of Experience",
+        "start": 543,
+        "end": 552,
+        "text": "2.5 years"
+      },
+      {
+        "label": "Companies worked at",
+        "start": 556,
+        "end": 580,
+        "text": "Oracle Fusion Middleware"
+      },
+      {
+        "label": "Companies worked at",
+        "start": 1034,
+        "end": 1040,
+        "text": "Oracle"
+      },
+      {
+        "label": "Companies worked at",
+        "start": 2086,
+        "end": 2092,
+        "text": "Oracle"
+      },
+      {
+        "label": "Designation",
+        "start": 2093,
+        "end": 2113,
+        "text": "Technical Consultant"
+      },
+      {
+        "label": "Companies worked at",
+        "start": 2184,
+        "end": 2208,
+        "text": "Oracle Fusion Middleware"
+      },
+      {
+        "label": "Designation",
+        "start": 2334,
+        "end": 2354,
+        "text": "Technical Consultant"
+      },
+      {
+        "label": "Companies worked at",
+        "start": 2356,
+        "end": 2362,
+        "text": "Oracle"
+      },
+      {
+        "label": "Years of Experience",
+        "start": 2394,
+        "end": 2403,
+        "text": "2.5 years"
+      },
+      {
+        "label": "Companies worked at",
+        "start": 2407,
+        "end": 2431,
+        "text": "Oracle Fusion Middleware"
+      },
+      {
+        "label": "Degree",
+        "start": 2476,
+        "end": 2480,
+        "text": "C.S."
+      },
+      {
+        "label": "College Name",
+        "start": 2482,
+        "end": 2533,
+        "text": "CHHATTISGARH SWAMI VIVEKANANDA TECHNICAL UNIVERSITY"
+      },
+      {
+        "label": "Graduation Year",
+        "start": 2543,
+        "end": 2547,
+        "text": "2015"
+      },
+      {
+        "label": "Skills",
+        "start": 2557,
+        "end": 2606,
+        "text": "Xml, Oracle MFT, Core Java, Oracle SOA, WSDL, ODI"
+      },
+      {
+        "label": "Companies worked at",
+        "start": 2665,
+        "end": 2689,
+        "text": "Oracle Fusion Middleware"
+      },
+      {
+        "label": "Companies worked at",
+        "start": 2694,
+        "end": 2700,
+        "text": "Oracle"
+      },
+      {
+        "label": "Companies worked at",
+        "start": 2756,
+        "end": 2762,
+        "text": "Oracle"
+      },
+      {
+        "label": "Designation",
+        "start": 3087,
+        "end": 3107,
+        "text": "Technical Consultant"
+      },
+      {
+        "label": "Companies worked at",
+        "start": 3132,
+        "end": 3156,
+        "text": "Oracle Fusion Middleware"
+      },
+      {
+        "label": "Companies worked at",
+        "start": 3165,
+        "end": 3171,
+        "text": "Oracle"
+      },
+      {
+        "label": "Designation",
+        "start": 3386,
+        "end": 3406,
+        "text": "Technical Consultant"
+      },
+      {
+        "label": "Companies worked at",
+        "start": 3449,
+        "end": 3455,
+        "text": "Oracle"
+      },
+      {
+        "label": "Companies worked at",
+        "start": 4059,
+        "end": 4065,
+        "text": "Oracle"
+      },
+      {
+        "label": "Companies worked at",
+        "start": 4210,
+        "end": 4216,
+        "text": "Oracle"
+      },
+      {
+        "label": "Designation",
+        "start": 4328,
+        "end": 4348,
+        "text": "Technical Consultant"
+      },
+      {
+        "label": "Companies worked at",
+        "start": 4374,
+        "end": 4398,
+        "text": "Oracle Fusion Middleware"
+      },
+      {
+        "label": "Companies worked at",
+        "start": 4407,
+        "end": 4413,
+        "text": "Oracle"
+      },
+      {
+        "label": "Designation",
+        "start": 4613,
+        "end": 4633,
+        "text": "Technical Consultant"
+      },
+      {
+        "label": "Companies worked at",
+        "start": 4676,
+        "end": 4682,
+        "text": "Oracle"
+      },
+      {
+        "label": "Companies worked at",
+        "start": 5318,
+        "end": 5324,
+        "text": "Oracle"
+      },
+      {
+        "label": "Companies worked at",
+        "start": 5365,
+        "end": 5371,
+        "text": "Oracle"
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "content": "Mayank Shukla\nInfosys group as a Test Analyst - Infosys Ltd/Edgeverve Systems Ltd\n\nBengaluru, Karnataka - Email me on Indeed: indeed.com/r/Mayank-Shukla/3c6042bd141ad353\n\n❖ 3+ years of experience in Automation Testing using TOSCA and selenium.\n❖ Worked in BFSI domain with different software engineering models like Agile methodology,\nWaterfall methodology etc.\n❖ Knowledge of project management tools like IBM CLM.\n❖ Received \"Award of Excellence\" from Tricentis for Automation testing using TOSCA.\n\nWilling to relocate to: Noida, Uttar Pradesh - Gurgaon, Haryana - Bengaluru, Karnataka\n\nWORK EXPERIENCE\n\nInfosys group as a Test Analyst\n\nInfosys Ltd/Edgeverve Systems Ltd -\n\nJanuary 2015 to Present\n\nary 2015 and got promoted to Test Analyst. Originally started with Infosys Ltd and currently\nworking in Infosys's products subsidiary Edgeverve Systems Ltd for Infosys Finacle.\n❖ Performing automation testing using agile methodology for projects like Finacle Core Banking\nSolution and Finacle CRM Solution.\n❖ Worked on automation testing using Selenium and TOSCA.\n❖ Worked for Agile Release Train (ART) in Scaled Agile Framework using IBM RCLM tool.\n❖ Working closely with Developers in Scrum Based software development model to prepare test\nplans based upon testing scope.\n❖ Conducting functional, regression and end to end testing using IBM Rational Quality Manager\ncross platforms using various APIs.\n❖ Experience in Web services testing and RESTful API testing.\n❖ Worked on distributed execution technique for Automation Testing using Jenkins.\n❖ Experience in Oracle Database, SQL queries, SQL Loader, SQL Plus\n❖ Involved in performance testing using batch processing on UNIX server.\n❖ Involved in defect logging, tracking and reporting using IBM Change and Configuration\nManagement (CCM) application on Jazz platform.\n❖ Worked on live project for Finacle Core Banking solution to provide Beta Quality Certifications\nfor the enhancements on the running solution.\n\nEDUCATION\n\nMBA in Banking and Finance\n\nManipal University -  Bengaluru, Karnataka\n\n2014\n\nB.Tech. in Information Technology\n\nhttps://www.indeed.com/r/Mayank-Shukla/3c6042bd141ad353?isid=rex-download&ikw=download-top&co=IN\n\n\nSaroj Institute of Technology & Management -  Lucknow, Uttar Pradesh\n\n2011\n\nLucknow Public Inter College -  Lucknow, Uttar Pradesh\n\n2005\n\nDIVISION\n\nSKILLS\n\nCRM (3 years), DATABASE (3 years), ORACLE (3 years), Tosca (3 years), Automation Testing (3\nyears), Selenium (1 year), Core Java (1 year)\n\nADDITIONAL INFORMATION\n\nKey Skills:\n❖ Software tools: IBM Rational Collaborative Lifecycle Management\n❖ Testing Tool: IBM Rational Quality Management on Jazz Server\n❖ Test Automation Tools: TOSCA, Selenium\n❖ Programming Language: Core Java\n❖ IDE: Eclipse\n❖ Database: Oracle, EDB, Sqlserver\n❖ Database Tools: SQL Developer, Toad, Tora\n❖ Software tools: Filezilla, MobaXterm, Putty, Office tools\n❖ Platforms: Windows, UNIX\n❖ Domain Software Knowledge: Finacle Core Banking Solution, Finacle CRM Solution.\n\nSkills: Fast learner, leadership quality, team player, presentation skills, work devotee, punctual,\ngood communication and listening skills.",
+    "entities": [
+      {
+        "label": "Name",
+        "start": 0,
+        "end": 13,
+        "text": "Mayank Shukla"
+      },
+      {
+        "label": "Designation",
+        "start": 33,
+        "end": 45,
+        "text": "Test Analyst"
+      },
+      {
+        "label": "Companies worked at",
+        "start": 48,
+        "end": 81,
+        "text": "Infosys Ltd/Edgeverve Systems Ltd"
+      },
+      {
+        "label": "Location",
+        "start": 83,
+        "end": 92,
+        "text": "Bengaluru"
+      },
+      {
+        "label": "Email Address",
+        "start": 126,
+        "end": 169,
+        "text": "indeed.com/r/Mayank-Shukla/3c6042bd141ad353"
+      },
+      {
+        "label": "Location",
+        "start": 567,
+        "end": 576,
+        "text": "Bengaluru"
+      },
+      {
+        "label": "Companies worked at",
+        "start": 639,
+        "end": 672,
+        "text": "Infosys Ltd/Edgeverve Systems Ltd"
+      },
+      {
+        "label": "Degree",
+        "start": 1980,
+        "end": 2006,
+        "text": "MBA in Banking and Finance"
+      },
+      {
+        "label": "College Name",
+        "start": 2008,
+        "end": 2026,
+        "text": "Manipal University"
+      },
+      {
+        "label": "Location",
+        "start": 2030,
+        "end": 2039,
+        "text": "Bengaluru"
+      },
+      {
+        "label": "Graduation Year",
+        "start": 2052,
+        "end": 2056,
+        "text": "2014"
+      },
+      {
+        "label": "Degree",
+        "start": 2058,
+        "end": 2091,
+        "text": "B.Tech. in Information Technology"
+      },
+      {
+        "label": "Email Address",
+        "start": 2105,
+        "end": 2148,
+        "text": "indeed.com/r/Mayank-Shukla/3c6042bd141ad353"
+      },
+      {
+        "label": "College Name",
+        "start": 2192,
+        "end": 2234,
+        "text": "Saroj Institute of Technology & Management"
+      },
+      {
+        "label": "College Name",
+        "start": 2262,
+        "end": 2266,
+        "text": "2011"
+      },
+      {
+        "label": "College Name",
+        "start": 2268,
+        "end": 2296,
+        "text": "Lucknow Public Inter College"
+      },
+      {
+        "label": "Graduation Year",
+        "start": 2324,
+        "end": 2328,
+        "text": "2005"
+      },
+      {
+        "label": "Skills",
+        "start": 2348,
+        "end": 3131,
+        "text": "CRM (3 years), DATABASE (3 years), ORACLE (3 years), Tosca (3 years), Automation Testing (3\nyears), Selenium (1 year), Core Java (1 year)\n\nADDITIONAL INFORMATION\n\nKey Skills:\n❖ Software tools: IBM Rational Collaborative Lifecycle Management\n❖ Testing Tool: IBM Rational Quality Management on Jazz Server\n❖ Test Automation Tools: TOSCA, Selenium\n❖ Programming Language: Core Java\n❖ IDE: Eclipse\n❖ Database: Oracle, EDB, Sqlserver\n❖ Database Tools: SQL Developer, Toad, Tora\n❖ Software tools: Filezilla, MobaXterm, Putty, Office tools\n❖ Platforms: Windows, UNIX\n❖ Domain Software Knowledge: Finacle Core Banking Solution, Finacle CRM Solution.\n\nSkills: Fast learner, leadership quality, team player, presentation skills, work devotee, punctual,\ngood communication and listening skills."
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "content": "pradeep chauhan\npradeep chauhan\n\nNoida, Uttar Pradesh - Email me on Indeed: indeed.com/r/pradeep-\nchauhan/7fd59212dcc556bd\n\nWilling to relocate to: Noida, Uttar Pradesh\n\nWORK EXPERIENCE\n\nteachers\n\nmicrosoft -  Noida, Uttar Pradesh -\n\nApril 2017 to Present\n\nEDUCATION\n\nb.tech in computer science\n\nsunder deep group of institution -  Noida, Uttar Pradesh\n\nCERTIFICATIONS/LICENSES\n\nAndroid Application Development\n\nhttps://www.indeed.com/r/pradeep-chauhan/7fd59212dcc556bd?isid=rex-download&ikw=download-top&co=IN\nhttps://www.indeed.com/r/pradeep-chauhan/7fd59212dcc556bd?isid=rex-download&ikw=download-top&co=IN",
+    "entities": [
+      {
+        "label": "Name",
+        "start": 0,
+        "end": 15,
+        "text": "pradeep chauhan"
+      },
+      {
+        "label": "Name",
+        "start": 16,
+        "end": 31,
+        "text": "pradeep chauhan"
+      },
+      {
+        "label": "Location",
+        "start": 33,
+        "end": 38,
+        "text": "Noida"
+      },
+      {
+        "label": "Email Address",
+        "start": 76,
+        "end": 122,
+        "text": "indeed.com/r/pradeep-\nchauhan/7fd59212dcc556bd"
+      },
+      {
+        "label": "Location",
+        "start": 148,
+        "end": 153,
+        "text": "Noida"
+      },
+      {
+        "label": "Location",
+        "start": 210,
+        "end": 215,
+        "text": "Noida"
+      },
+      {
+        "label": "Degree",
+        "start": 268,
+        "end": 294,
+        "text": "b.tech in computer science"
+      },
+      {
+        "label": "College Name",
+        "start": 296,
+        "end": 328,
+        "text": "sunder deep group of institution"
+      },
+      {
+        "label": "Location",
+        "start": 332,
+        "end": 337,
+        "text": "Noida"
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "content": "Hemil Bhavsar\nJr. ASP.NET Developer in True Vision Technology\n\nAhmedabad, Gujarat - Email me on Indeed: indeed.com/r/Hemil-Bhavsar/ce3a928d837ce9e1\n\nTo seek a job in the IT industry where I can utilize my skills and technical knowledge for the\norganization's and individual growth\n\nArea of interest:\n• Software Testing.\n• Testing application manually.\n• Great interest to learn new Technologies and Languages.\n• Enterprise Application Development\n• Web Application Development\n\nWORK EXPERIENCE\n\nJr. ASP.NET Developer in True Vision Technology\n\n-\n\nSeptember 2015 to May 2016\n\nSoftware Testing Training at Unicode Technology From March 2018 to May 2018\n\nJr. ASP.NET Developer (Intern) in Softech Infosys\n\n-\n\nMarch 2015 to August 2015\n\nEDUCATION\n\nMSC\n\nKSV University -  Gandhinagar, Gujarat\n\nApril 2015\n\nB.C.A\n\nGujarat University\n\nApril 2013\n\nSKILLS\n\nASP (1 year), ASP.NET (1 year), MS ASP (1 year), SOFTWARE TESTING (Less than 1 year),\nTESTING (Less than 1 year)\n\nhttps://www.indeed.com/r/Hemil-Bhavsar/ce3a928d837ce9e1?isid=rex-download&ikw=download-top&co=IN\n\n\nADDITIONAL INFORMATION\n\nTechnical skillset:\n• Manual Testing Techniques\n• Web Application testing\n• STLC (Software Testing Life Cycle) process\n• Verification and Validation process\n• Programming Language: Software Testing, ASP.Net with C#\n\n• Frameworks: Microsoft Visual Studio 2010, Frameworks 3.5, Frameworks (C#) 4.0, 4.5\n• Database tools: MySQL, SQL Server 2008, SQL Server 2010, MS-Access 2008\n• Report generation Tool: Crystal Report",
+    "entities": [
+      {
+        "label": "Name",
+        "start": 0,
+        "end": 13,
+        "text": "Hemil Bhavsar"
+      },
+      {
+        "label": "Designation",
+        "start": 14,
+        "end": 35,
+        "text": "Jr. ASP.NET Developer"
+      },
+      {
+        "label": "College Name",
+        "start": 39,
+        "end": 61,
+        "text": "True Vision Technology"
+      },
+      {
+        "label": "Designation",
+        "start": 495,
+        "end": 516,
+        "text": "Jr. ASP.NET Developer"
+      },
+      {
+        "label": "College Name",
+        "start": 520,
+        "end": 542,
+        "text": "True Vision Technology"
+      },
+      {
+        "label": "Designation",
+        "start": 652,
+        "end": 673,
+        "text": "Jr. ASP.NET Developer"
+      },
+      {
+        "label": "Degree",
+        "start": 744,
+        "end": 747,
+        "text": "MSC"
+      },
+      {
+        "label": "College Name",
+        "start": 749,
+        "end": 763,
+        "text": "KSV University"
+      },
+      {
+        "label": "Degree",
+        "start": 801,
+        "end": 806,
+        "text": "B.C.A"
+      },
+      {
+        "label": "College Name",
+        "start": 808,
+        "end": 826,
+        "text": "Gujarat University"
+      },
+      {
+        "label": "Graduation Year",
+        "start": 834,
+        "end": 838,
+        "text": "2013"
+      },
+      {
+        "label": "Skills",
+        "start": 848,
+        "end": 960,
+        "text": "ASP (1 year), ASP.NET (1 year), MS ASP (1 year), SOFTWARE TESTING (Less than 1 year),\nTESTING (Less than 1 year)"
+      },
+      {
+        "label": "Skills",
+        "start": 1085,
+        "end": 1500,
+        "text": "Technical skillset:\n• Manual Testing Techniques\n• Web Application testing\n• STLC (Software Testing Life Cycle) process\n• Verification and Validation process\n• Programming Language: Software Testing, ASP.Net with C#\n\n• Frameworks: Microsoft Visual Studio 2010, Frameworks 3.5, Frameworks (C#) 4.0, 4.5\n• Database tools: MySQL, SQL Server 2008, SQL Server 2010, MS-Access 2008\n• Report generation Tool: Crystal Report"
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "content": "Ramkrishan Bhatt\npython developer\n\nBengaluru, Karnataka, Karnataka - Email me on Indeed: indeed.com/r/Ramkrishan-Bhatt/\nda07dc6d058dfc64\n\nWORK EXPERIENCE\n\nPython Developer\n\nMicrosoft -  Bengaluru, Karnataka -\n\nJune 2017 to November 2017\n\nCareer Summary\n7.5 years IT-related employment as a Software Developer expert in Python, web development,\nfamiliar with\nDjango, Flask, Web2py, Tensorflow, jupyter Notebook, Machine learning and Artificial\nIntelligence . Played\nkey role in the team as solution provider for simplifying the existing system, while working for\nclients. saved\ncost and time per annum by automating administrative system. Wrote technical documents and\nuser's manuals.\n\nTechnical Summary\nLanguages: Python, Java, Angular JS, Polymer 1.0, Jquery.\nLibrary and tool: - Tensorflow, Deep Learning, Machine Learning, Word2vec, Artificial\nIntelligence, PyCharm, Jupiter Notebook\nFrameworks: Django, Web2py, Flask, JPA, Google App Engine platform, Google Apps\nIntegration.\nDatabases: MongoDB, Google Big Table(NoSQL database), MySQL 5.0, Sqlite, Postgresql. Google\nCloud SQL, Redis\nOperating Systems: Linux(ubuntu), Window\nApplications: Google Apps, Webex database, Zoho, MS-Office, Google Apps migration from\nlotus notes, Working with active directory syncing with the Google apps.\nElastic Search, Spring MVC, Gantter product\n\nB1 B2 US VISA till 2025\n\nEDUCATION\n\nMongo\n\nDadabari -  Ajmer, Rajasthan\n\nJune 2015 to August 2016\n\nBCA\n\naffiliated -  Kota, Rajasthan\n\nhttps://www.indeed.com/r/Ramkrishan-Bhatt/da07dc6d058dfc64?isid=rex-download&ikw=download-top&co=IN\nhttps://www.indeed.com/r/Ramkrishan-Bhatt/da07dc6d058dfc64?isid=rex-download&ikw=download-top&co=IN",
+    "entities": [
+      {
+        "label": "Name",
+        "start": 0,
+        "end": 16,
+        "text": "Ramkrishan Bhatt"
+      },
+      {
+        "label": "Designation",
+        "start": 17,
+        "end": 33,
+        "text": "python developer"
+      },
+      {
+        "label": "Location",
+        "start": 35,
+        "end": 44,
+        "text": "Bengaluru"
+      },
+      {
+        "label": "Email Address",
+        "start": 89,
+        "end": 136,
+        "text": "indeed.com/r/Ramkrishan-Bhatt/\nda07dc6d058dfc64"
+      },
+      {
+        "label": "Designation",
+        "start": 155,
+        "end": 171,
+        "text": "Python Developer"
+      },
+      {
+        "label": "Location",
+        "start": 186,
+        "end": 195,
+        "text": "Bengaluru"
+      },
+      {
+        "label": "Degree",
+        "start": 1371,
+        "end": 1376,
+        "text": "Mongo"
+      },
+      {
+        "label": "Degree",
+        "start": 1434,
+        "end": 1437,
+        "text": "BCA"
+      },
+      {
+        "label": "College Name",
+        "start": 1439,
+        "end": 1468,
+        "text": "affiliated -  Kota, Rajasthan"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "content": "PRASHANTH BADALA\nDevops Engineer ,Cloud Engineer -Oracle\n\nHyderabad, Telangana - Email me on Indeed: indeed.com/r/PRASHANTH-BADALA/\nbf4c4b7253a8ece7\n\n• Hands on experience in end-end process of Build Management, Release Management and\nConfiguration Management.\n• Hands on experience on supporting configuration management tools on both physical and cloud\nenvironment\n• Involved in setting up Jenkins in Distributed Environments with Master and Slave\n• Working experience on Subversion (SVN) administration and basic usage\n• Creating Branches, tags and providing SVN user access to all developers in the organization\n• Managing application server instances running on AWS\n• Involved in configuring EC2 instances along with Auto scale up options.\n• Involved in configuration Management using CHEF and automated the complete platform\nsetup.\n• Good knowledge on Cookbooks, Chef Kitchen, Burks file and Metadata.\n• Involved in automating the release using UDeploy and deploying the application to different\nenvironments.\n• Involved in container setup with Docker. Having good understanding of creating and running\nDocker images.\n• Involved in writing Applications, Componenets, Resources and component process flow.\n• Configured Jenkins as contionus integration tool for regular source code builds.\n• Experience in setting up branching strategies, merging and taking regular backups of the source\ncode on SVN server\n• Helping the Developers in SVN related issues\n• Written the integrated build automation scripts using Ant\n• Perform the QA & Stress and UAT builds and deployed the binaries on respective environment\nservers\n• Monitoring the deployment in all the servers\n• Supported setting up of various environments in multi-tier architecture involving load balancers,\nApache webservers, Oracle database,\n• Developed custom scripts to automate the build and release process.\n• Implemented a custom authentication with WebLogic for user authentication, authorization and\npassword policy\n• Monitoring environment using monitoring tools like Wily monitoring tool and custom shell script.\n• Involved in integrating WebLogic with Wily introscope.\n• Involved in resolving tickets with different SLAs like SEV1, SEV2, SEV3 and SEV4.\n• Involved in change management process like opening change records using change\nmanagement tools like INFRA, Managenow.\n• Providing on call, weekend and deployment support.\n• Involved in applying security patches using WebLogic Utility.\n• Deploying applications using different deployment strategies like Stage, No Stage and External\nstage.\nWork Experience:\n\n• Working as Configuration Engineer in Oracle, Hyderabad from July 2015 to till date.\n\nhttps://www.indeed.com/r/PRASHANTH-BADALA/bf4c4b7253a8ece7?isid=rex-download&ikw=download-top&co=IN\nhttps://www.indeed.com/r/PRASHANTH-BADALA/bf4c4b7253a8ece7?isid=rex-download&ikw=download-top&co=IN\n\n\nTechnical Skills:\n\nVersion Control Tools \n\nSubversion(SVN),GIT\n\nWeb/Appservers\nContinuous Integration Tools\nWebLogic 11g, Apache HTTP Server 2.4\nJenkins 1.6, Hudson\n\nBuild Tools \n\nMaven 3\n\nScripting Languages \n\nShell Scripting and Python\n\nOperating Systems \n\nWindows servers […] Windows XP/7, Red Hat LINUX 5\n\nDatabase\n\nOracle 11g\n\nRelease Tools\n\nUDeploy,Jenkins\n\nCloud\n\nAWS\n\nConfiguration Tools\n\nCHEF\n\nEducation Qualification:\nB.Tech From Annamacharya Institute of Technology, JNTU Hyderabad - 2015 \n\nProject Details\n\nTitle: E-Banking solutions \n\nClient : Union Bank of Canada, Canada \nRole : Configuration Engineer \nEnvironment : Maven, Jenkins, CHEF, UDeploy, SVN, Linux, Weblogic,Aws \n\n\n\nDuration : Nov 2016 to till date\n\nProject Description:\n\nThis is a banking project and basic objective of this project is to deal with the loans. This\napplication is based on Java technology. For this we have to schedule the tasks and have to collect\ncode from development team and have to build and deploy the code later have to support the\nrelease management team of which executing Java applications build and deployments in Dev,\nQA, performance and production environments.\n. .\nResponsibilities:\n• Involved in automation of Configuration Management using CHEF and automated multiple\nenvironments like Prod and Non Prod.\n• Involved in configuring AWS Environment to deploy applications.\n• Involved in Release Management and automated the overall release process using Urban Code\nDeployments (UDeploy)\n• For on boarding existing application, performing knowledge transition from development team\nto SCM team on build and deployment process.\n• For new applications, work with development to get the requirements of application build and\ndeployment process.\n• Creating War/Ear files using Ant Script\n• Creating Jenkins/Hudson jobs.\n• Monitor and track requests in Subversion.\n• Monitor and fix the continuous integration builds running in Jenkins.\n• Troubleshooting the compilation errors and provide the technical support to the developers\nteam on that issue.\n• Installation, configuring, administration of Web Logic 9.x, 10.x on Linux environment.\n• Supporting Builds for Multiple environments like Dev, QA, Staging, Perf and Production.\n• Performing Manual and Automation Builds using Maven and Jenkins.\n• Troubleshooting the middle ware issues and resolving the P2,P3 tickets with in SLA\n• Provided on call support on 24/7 basis\n• Involved in creation and configuration of Domains, JVM instances in production, QA and UAT\nenvironments.\n• Configured clusters to provide fail over, load balancing and deployed applications on clusters.\n• Installed, configured and administration to Web logic 10.x, JDBC Data source and Connection\npool configuration with Oracle. Web Logic Administration, Monitoring and Troubleshooting using\nAdmin Console.\n• Have excellent experience in Client Interaction\n• Provided on call support for production tickets on 24/7 basis.\n• Deployment of web and enterprise applications and their updates in dev, production, pre-\nproduction using Admin console.\n\n• Creating branches & merging using Subversion.\n• Performing deployments to multiple environments like Dev, QA, Field, Perf, UAT & Production\nenvs\n• Troubleshooting application related issues by log verification.\n• Writing a UNIX Shell Script and schedule in the respective run levels for automate day-to-day\nactivities such as auto start application server.\n• Automate code deployments by using ANT and Jenkins.\n\n\n\nSprint Value Added Services\n\nClient : Sprint, U.S \nRole : Build and Release Engineer\nEnvironment: Maven, Jenkins, SVN, Linux, Weblogic, Apache,AWS,Docker\nDuration : Dec 2015 to Oct 2016\n\nProject Description:\n\nThis is a Value Added Services provided by Sprint. This application is based on Java technology.\nFor this we have to schedule the tasks and have to collect code from development team and\nhave to build and deploy the code later have to support the release management team of which\nexecuting Java applications build and deployments in Dev, QA, performance and production\nenvironments.\n\nResponsibilities:\n\n• For on boarding existing application, performing knowledge transition from development team\nto SCM team on build and deployment process.\n• For new applications, work with development to get the requirements of application build and\ndeployment process.\n• Installing and configuring Subversion (SVN) and Jenkins.\n• Providing support to Subversion (SVN) related issues.\n• Developing and maintaining build files by using Ant script.\n• Integrate Unit Testing in Ant builds\n• Installation, configuring, administration of Web Logic 9.x, 10.x on Linux environment.\n• Supporting Builds for Multiple environments like Dev, QA, Staging, Perf and Production.\n• Performing Manual and Automation Builds using Maven and Jenkins.\n• Troubleshooting the middle ware issues and resolving the P2,P3 tickets with in SLA\n• Provided on call support on 24/7 basis\n• Involved in creation and configuration of Domains, JVM instances in production, QA and UAT\nenvironments.\n• Configured clusters to provide fail over, load balancing and deployed applications on clusters.\n• Installed, configured and administration to Web logic 10.x, JDBC Data source and Connection\npool configuration with Oracle. Web Logic Administration, Monitoring and Troubleshooting using\nAdmin Console.\n• Have excellent experience in Client Interaction\n• Provided on call support for production tickets on 24/7 basis.\n• Deployment of web and enterprise applications and their updates in dev, production, pre-\nproduction using Admin console.\n• Building the source code using Jenkins.\n• Helped developers in resolving SVN issues and concerns.\n• Responsible for weekly and daily work checks and backups.\n• Environment: WebLogic Application Server 10.3, JDK1.6, Oracle, Apache Webserver, Linux,\nJIRA,Infra,SSH,TOAD\n\nKOhls Retail Services\n\n\n\nClient : Kohls, US\nRole : Build and Release Engineer. \nEnvironment: Maven, Jenkins, SVN, Linux, WebLogic, Apache\nDuration : July 2015 to Nov 2015\n\nProject Description:\n\nThis application is based on Java technology. For this we have to schedule the tasks and have to\ncollect code from development team and have to build and deploy the code later have to support\nthe release management team of which executing Java applications build and deployments in\nDev, QA, performance and production environments.\n\nResponsibilities: \n\n• Developing and maintaining build files by using Ant script.\n• Integrate Unit Testing in Ant builds\n• Installation, configuring, administration of Web Logic 9.x, 10.x on Linux environment.\n• Supporting Builds for Multiple environments like Dev, QA, Staging, Perf and Production.\n\n• Supporting Builds for Multiple environments like Dev, QA, Staging, Perf and Production.\n• Performing Manual and Automation Builds using Maven and Jenkins.\n• Deploying WAR, EAR applications on various targeted servers in the clustered environments.\n• Web Logic Administration, Monitoring and Troubleshooting using Admin Console.\n• Analyzing log files and periodic removal of them\n• Creating branches & merging using Subversion.\n• Performing deployments to multiple environments like Dev, QA, Field, Perf, UAT & Production\nenvs\n• Troubleshooting application related issues by log verification.\n• Writing a UNIX Shell Script and schedule in the respective run levels for automate day-to-day\nactivities such as auto start application server.\n• Automate code deployments by using ANT and Jenkins.\n\n• Involved in changing heap parameters like –Xms, -Xmx, -XnoOpt,-XnoHup etc.\n• Perform daily environment health-check\n• Good in taking the thread dumps and finding the root cause analysis.\n• Created and configured web logic server instances, clusters in domain environment.\n• Installed web logic on production boxes in console mode.\n• Strong experience in administrating by using Admin console.\n\nEnvironment: WebLogic Application Server 9.2, Java, Oracle, Apache Webserver, Linux, JIRA,\nManagenow, Putty, TOAD\n\nWilling to relocate to: Hyderabad, Telangana - Bangalore Urban, Karnataka - Chennai, Tamil Nadu\n\nWORK EXPERIENCE\n\nConfiguration Engineer\n\nOracle -  Hyderabad, Telangana -\n\n\n\nJuly 2015 to Present\n\n• Hands on experience in end-end process of Build Management, Release Management and\nConfiguration Management.\n• Hands on experience on supporting configuration management tools on both physical and cloud\nenvironment\n• Involved in setting up Jenkins in Distributed Environments with Master and Slave\n• Working experience on Subversion(SVN) administration and basic usage\n• Creating Branches, tags and providing SVN user access to all developers in the organization\n• Managing application server instances running on AWS\n• Involved in configuring EC2 instances along with Auto scale up options.\n• Involved in configuration Management using CHEF and automated the complete platform\nsetup.\n• Good knowledge on Cookbooks, Chef Kitchen, Burks file and Metadata.\n• Involved in automating the release using UDeploy and deploying the application to different\nenvironments.\n• Involved in container setup with Docker. Having good understanding of creating and running\nDocker images.\n• Involved in writing Applications, Componenets, Resources and component process flow.\n• Configured Jenkins as contionus integration tool for regular source code builds.\n• Experience in setting up branching strategies, merging and taking regular backups of the source\ncode on SVN server\n• Helping the Developers in SVN related issues\n• Written the integrated build automation scripts using Ant\n• Perform the QA & Stress and UAT builds and deployed the binaries on respective environment\nservers\n• Monitoring the deployment in all the servers\n• Supported setting up of various environments in multi-tier architecture involving load balancers,\nApache webservers, Oracle database, \n• Developed custom scripts to automate the build and release process.\n• Implemented a custom authentication with WebLogic for user authentication, authorization and\npassword policy\n• Monitoring environment using monitoring tools like Wily monitoring tool and custom shell script.\n• Involved in integrating WebLogic with Wily introscope.\n• Involved in resolving tickets with different SLAs like SEV1, SEV2, SEV3 and SEV4.\n• Involved in change management process like opening change records using change\nmanagement tools like INFRA, Managenow.\n• Providing on call, weekend and deployment support.\n• Involved in applying security patches using WebLogic Utility.\n• Deploying applications using different deployment strategies like Stage, No Stage and External\nstage.\n\nConfiguration Engineer\n\nOracle\n\nDevops\n\n\n\nEDUCATION\n\nB.TECH/B.E\n\nAnnamacharya Institute of Technology, JNTU, Hyderabad -  Hyderabad, Telangana\n\n2015\n\nSKILLS\n\nAWS (1 year), CHEF (1 year), Linux (2 years), git, svn, maven, devops, jenkins, Docker,\nweblogic\n\nADDITIONAL INFORMATION\n\nOperating Systems Windows servers […] Windows XP/7, Red Hat LINUX 5\nDatabase Oracle 11g\nRelease Tools UDeploy, Jenkins\nCloud AWS\nConfiguration Tools CHEF",
+    "entities": [
+      {
+        "label": "Name",
+        "start": 0,
+        "end": 16,
+        "text": "PRASHANTH BADALA"
+      },
+      {
+        "label": "Designation",
+        "start": 17,
+        "end": 32,
+        "text": "Devops Engineer"
+      },
+      {
+        "label": "Designation",
+        "start": 34,
+        "end": 48,
+        "text": "Cloud Engineer"
+      },
+      {
+        "label": "Companies worked at",
+        "start": 50,
+        "end": 56,
+        "text": "Oracle"
+      },
+      {
+        "label": "Location",
+        "start": 58,
+        "end": 67,
+        "text": "Hyderabad"
+      },
+      {
+        "label": "Email Address",
+        "start": 101,
+        "end": 148,
+        "text": "indeed.com/r/PRASHANTH-BADALA/\nbf4c4b7253a8ece7"
+      },
+      {
+        "label": "Skills",
+        "start": 667,
+        "end": 670,
+        "text": "AWS"
+      },
+      {
+        "label": "Skills",
+        "start": 790,
+        "end": 794,
+        "text": "CHEF"
+      },
+      {
+        "label": "Skills",
+        "start": 1051,
+        "end": 1057,
+        "text": "Docker"
+      },
+      {
+        "label": "Skills",
+        "start": 1109,
+        "end": 1115,
+        "text": "Docker"
+      },
+      {
+        "label": "Companies worked at",
+        "start": 1785,
+        "end": 1791,
+        "text": "Oracle"
+      },
+      {
+        "label": "Designation",
+        "start": 2596,
+        "end": 2618,
+        "text": "Configuration Engineer"
+      },
+      {
+        "label": "Companies worked at",
+        "start": 2622,
+        "end": 2628,
+        "text": "Oracle"
+      },
+      {
+        "label": "Location",
+        "start": 2630,
+        "end": 2639,
+        "text": "Hyderabad"
+      },
+      {
+        "label": "Graduation Year",
+        "start": 2650,
+        "end": 2654,
+        "text": "2015"
+      },
+      {
+        "label": "Skills",
+        "start": 2891,
+        "end": 2912,
+        "text": "Version Control Tools"
+      },
+      {
+        "label": "Skills",
+        "start": 2915,
+        "end": 2934,
+        "text": "Subversion(SVN),GIT"
+      },
+      {
+        "label": "Skills",
+        "start": 2936,
+        "end": 2950,
+        "text": "Web/Appservers"
+      },
+      {
+        "label": "Skills",
+        "start": 2951,
+        "end": 2979,
+        "text": "Continuous Integration Tools"
+      },
+      {
+        "label": "Skills",
+        "start": 2980,
+        "end": 3016,
+        "text": "WebLogic 11g, Apache HTTP Server 2.4"
+      },
+      {
+        "label": "Skills",
+        "start": 3017,
+        "end": 3036,
+        "text": "Jenkins 1.6, Hudson"
+      },
+      {
+        "label": "Skills",
+        "start": 3052,
+        "end": 3059,
+        "text": "Maven 3"
+      },
+      {
+        "label": "Skills",
+        "start": 3083,
+        "end": 3109,
+        "text": "Shell Scripting and Python"
+      },
+      {
+        "label": "Companies worked at",
+        "start": 3192,
+        "end": 3198,
+        "text": "Oracle"
+      },
+      {
+        "label": "Skills",
+        "start": 3219,
+        "end": 3234,
+        "text": "UDeploy,Jenkins"
+      },
+      {
+        "label": "Skills",
+        "start": 3236,
+        "end": 3241,
+        "text": "Cloud"
+      },
+      {
+        "label": "Skills",
+        "start": 3243,
+        "end": 3246,
+        "text": "AWS"
+      },
+      {
+        "label": "Skills",
+        "start": 3248,
+        "end": 3267,
+        "text": "Configuration Tools"
+      },
+      {
+        "label": "Skills",
+        "start": 3269,
+        "end": 3273,
+        "text": "CHEF"
+      },
+      {
+        "label": "Degree",
+        "start": 3300,
+        "end": 3306,
+        "text": "B.Tech"
+      },
+      {
+        "label": "College Name",
+        "start": 3312,
+        "end": 3348,
+        "text": "Annamacharya Institute of Technology"
+      },
+      {
+        "label": "Location",
+        "start": 3355,
+        "end": 3364,
+        "text": "Hyderabad"
+      },
+      {
+        "label": "Graduation Year",
+        "start": 3367,
+        "end": 3371,
+        "text": "2015"
+      },
+      {
+        "label": "Designation",
+        "start": 3466,
+        "end": 3488,
+        "text": "Configuration Engineer"
+      },
+      {
+        "label": "Skills",
+        "start": 3520,
+        "end": 3524,
+        "text": "CHEF"
+      },
+      {
+        "label": "Skills",
+        "start": 3540,
+        "end": 3545,
+        "text": "Linux"
+      },
+      {
+        "label": "Skills",
+        "start": 4122,
+        "end": 4126,
+        "text": "CHEF"
+      },
+      {
+        "label": "Skills",
+        "start": 4213,
+        "end": 4216,
+        "text": "AWS"
+      },
+      {
+        "label": "Skills",
+        "start": 4994,
+        "end": 4999,
+        "text": "Linux"
+      },
+      {
+        "label": "Companies worked at",
+        "start": 5619,
+        "end": 5625,
+        "text": "Oracle"
+      },
+      {
+        "label": "Skills",
+        "start": 6479,
+        "end": 6484,
+        "text": "Linux"
+      },
+      {
+        "label": "Skills",
+        "start": 6503,
+        "end": 6506,
+        "text": "AWS"
+      },
+      {
+        "label": "Skills",
+        "start": 6507,
+        "end": 6513,
+        "text": "Docker"
+      },
+      {
+        "label": "Skills",
+        "start": 7512,
+        "end": 7517,
+        "text": "Linux"
+      },
+      {
+        "label": "Companies worked at",
+        "start": 8137,
+        "end": 8143,
+        "text": "Oracle"
+      },
+      {
+        "label": "Companies worked at",
+        "start": 8678,
+        "end": 8684,
+        "text": "Oracle"
+      },
+      {
+        "label": "Skills",
+        "start": 8704,
+        "end": 8709,
+        "text": "Linux"
+      },
+      {
+        "label": "Skills",
+        "start": 8846,
+        "end": 8851,
+        "text": "Linux"
+      },
+      {
+        "label": "Skills",
+        "start": 9450,
+        "end": 9455,
+        "text": "Linux"
+      },
+      {
+        "label": "Companies worked at",
+        "start": 10803,
+        "end": 10809,
+        "text": "Oracle"
+      },
+      {
+        "label": "Skills",
+        "start": 10829,
+        "end": 10834,
+        "text": "Linux"
+      },
+      {
+        "label": "Location",
+        "start": 10890,
+        "end": 10899,
+        "text": "Hyderabad"
+      },
+      {
+        "label": "Designation",
+        "start": 10980,
+        "end": 11002,
+        "text": "Configuration Engineer"
+      },
+      {
+        "label": "Companies worked at",
+        "start": 11004,
+        "end": 11010,
+        "text": "Oracle"
+      },
+      {
+        "label": "Location",
+        "start": 11014,
+        "end": 11023,
+        "text": "Hyderabad"
+      },
+      {
+        "label": "Skills",
+        "start": 11578,
+        "end": 11581,
+        "text": "AWS"
+      },
+      {
+        "label": "Skills",
+        "start": 11701,
+        "end": 11705,
+        "text": "CHEF"
+      },
+      {
+        "label": "Skills",
+        "start": 11962,
+        "end": 11968,
+        "text": "Docker"
+      },
+      {
+        "label": "Skills",
+        "start": 12020,
+        "end": 12026,
+        "text": "Docker"
+      },
+      {
+        "label": "Companies worked at",
+        "start": 12696,
+        "end": 12702,
+        "text": "Oracle"
+      },
+      {
+        "label": "Designation",
+        "start": 13478,
+        "end": 13500,
+        "text": "Configuration Engineer"
+      },
+      {
+        "label": "Companies worked at",
+        "start": 13502,
+        "end": 13508,
+        "text": "Oracle"
+      },
+      {
+        "label": "College Name",
+        "start": 13543,
+        "end": 13579,
+        "text": "Annamacharya Institute of Technology"
+      },
+      {
+        "label": "Location",
+        "start": 13587,
+        "end": 13596,
+        "text": "Hyderabad"
+      },
+      {
+        "label": "Location",
+        "start": 13600,
+        "end": 13609,
+        "text": "Hyderabad"
+      },
+      {
+        "label": "Skills",
+        "start": 13636,
+        "end": 13639,
+        "text": "AWS"
+      },
+      {
+        "label": "Skills",
+        "start": 13650,
+        "end": 13654,
+        "text": "CHEF"
+      },
+      {
+        "label": "Skills",
+        "start": 13665,
+        "end": 13670,
+        "text": "Linux"
+      },
+      {
+        "label": "Skills",
+        "start": 13682,
+        "end": 13685,
+        "text": "git"
+      },
+      {
+        "label": "Skills",
+        "start": 13687,
+        "end": 13690,
+        "text": "svn"
+      },
+      {
+        "label": "Skills",
+        "start": 13692,
+        "end": 13697,
+        "text": "maven"
+      },
+      {
+        "label": "Skills",
+        "start": 13699,
+        "end": 13705,
+        "text": "devops"
+      },
+      {
+        "label": "Skills",
+        "start": 13707,
+        "end": 13714,
+        "text": "jenkins"
+      },
+      {
+        "label": "Skills",
+        "start": 13716,
+        "end": 13722,
+        "text": "Docker"
+      },
+      {
+        "label": "Skills",
+        "start": 13724,
+        "end": 13732,
+        "text": "weblogic"
+      },
+      {
+        "label": "Companies worked at",
+        "start": 13835,
+        "end": 13841,
+        "text": "Oracle"
+      },
+      {
+        "label": "Skills",
+        "start": 13883,
+        "end": 13886,
+        "text": "AWS"
+      },
+      {
+        "label": "Skills",
+        "start": 13907,
+        "end": 13911,
+        "text": "CHEF"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "content": "Snehal Jadhav\nMumbai, Maharashtra - Email me on Indeed: indeed.com/r/Snehal-Jadhav/005e1ab800b4cb42\n\nWORK EXPERIENCE\n\nL1 network engineer\n\nCisco -  Mumbai, Maharashtra -\n\nFebruary 2017 to Present\n\nassociated with Cisco on the role of ACESOFTLABS (INDIA) Pvt. Ltd\n\nEDUCATION\n\nHSC\n\nMaharashtra Board\n\nMarch 2012\n\nSSC\n\nMaharashtra Board\n\nMarch 2010\n\nB.E in Electronics & Telecommunication\n\nShivaji University\n\nSKILLS\n\nArchitecture (Less than 1 year), BGP (Less than 1 year), DHCP (Less than 1 year), DNS (Less\nthan 1 year), EIGRP (Less than 1 year)\n\nADDITIONAL INFORMATION\n\nTechnical Skills\n\n• Layer 2 Technologies like VTP, VLAN, STP, and RSTP.\n• OSI Architecture, TCP/IP Module\n• TCP/UDP, DHCP, DNS\n• MP-BGP IPv4/IPv6, VPNv4, VPNv6, RT-Filter, IPv6-Multicats.\n• Access-List, Prefix-List, Distribution List, QOS.\n• MPLS, L2/L3 VPN.\n• GRE, IPSec, DMVPN.\n• FTP-Active/Passive, TFTP.\n• Configuring and Troubleshooting L2 and L3 Ether channels on Cisco 3550, 3560, 2950 switches.\n• IP Addressing, VLSM, Summarization, understanding Lease Line and Dedicated Lease Lines.\n\nhttps://www.indeed.com/r/Snehal-Jadhav/005e1ab800b4cb42?isid=rex-download&ikw=download-top&co=IN\n\n\n• Configuring HSRP, VRRP, GLBP on Cisco Routers and Switches.\n• VTP & Frame Tagging protocols ISL, Dot1q\n• NAT, PAT, NAT-T.\n• Strong skills in Configuring Cisco Routers (ASR901, ASR903, ASR900) using ISIS, OSPF, EIGRP\nand BGP. A good understanding of working on Small to High E1nd Routers and Switches.\n• Comprehensive understanding of networking concepts pertaining to LAN, WAN, Security, IT\ncommunication, WAN protocols, Networking devices administration and maintenance in multi-\nplatform environments.\n• Strong hands-on technical knowledge of Microsoft Operating Systems (Network & Desktop),\nestablishing & managing networks, Cisco Routers, Hardware clients & switches.\n• Expertise in managing medium to large networks with Routers, Switches.",
+    "entities": [
+      {
+        "label": "Name",
+        "start": 0,
+        "end": 13,
+        "text": "Snehal Jadhav"
+      },
+      {
+        "label": "Location",
+        "start": 14,
+        "end": 20,
+        "text": "Mumbai"
+      },
+      {
+        "label": "Email Address",
+        "start": 56,
+        "end": 99,
+        "text": "indeed.com/r/Snehal-Jadhav/005e1ab800b4cb42"
+      },
+      {
+        "label": "Designation",
+        "start": 118,
+        "end": 137,
+        "text": "L1 network engineer"
+      },
+      {
+        "label": "Companies worked at",
+        "start": 139,
+        "end": 144,
+        "text": "Cisco"
+      },
+      {
+        "label": "Location",
+        "start": 148,
+        "end": 154,
+        "text": "Mumbai"
+      },
+      {
+        "label": "Companies worked at",
+        "start": 213,
+        "end": 218,
+        "text": "Cisco"
+      },
+      {
+        "label": "Degree",
+        "start": 275,
+        "end": 278,
+        "text": "HSC"
+      },
+      {
+        "label": "College Name",
+        "start": 280,
+        "end": 297,
+        "text": "Maharashtra Board"
+      },
+      {
+        "label": "Degree",
+        "start": 311,
+        "end": 314,
+        "text": "SSC"
+      },
+      {
+        "label": "College Name",
+        "start": 316,
+        "end": 333,
+        "text": "Maharashtra Board"
+      },
+      {
+        "label": "Degree",
+        "start": 347,
+        "end": 385,
+        "text": "B.E in Electronics & Telecommunication"
+      },
+      {
+        "label": "College Name",
+        "start": 387,
+        "end": 405,
+        "text": "Shivaji University"
+      },
+      {
+        "label": "Skills",
+        "start": 415,
+        "end": 1910,
+        "text": "Architecture (Less than 1 year), BGP (Less than 1 year), DHCP (Less than 1 year), DNS (Less\nthan 1 year), EIGRP (Less than 1 year)\n\nADDITIONAL INFORMATION\n\nTechnical Skills\n\n• Layer 2 Technologies like VTP, VLAN, STP, and RSTP.\n• OSI Architecture, TCP/IP Module\n• TCP/UDP, DHCP, DNS\n• MP-BGP IPv4/IPv6, VPNv4, VPNv6, RT-Filter, IPv6-Multicats.\n• Access-List, Prefix-List, Distribution List, QOS.\n• MPLS, L2/L3 VPN.\n• GRE, IPSec, DMVPN.\n• FTP-Active/Passive, TFTP.\n• Configuring and Troubleshooting L2 and L3 Ether channels on Cisco 3550, 3560, 2950 switches.\n• IP Addressing, VLSM, Summarization, understanding Lease Line and Dedicated Lease Lines.\n\nhttps://www.indeed.com/r/Snehal-Jadhav/005e1ab800b4cb42?isid=rex-download&ikw=download-top&co=IN\n\n\n• Configuring HSRP, VRRP, GLBP on Cisco Routers and Switches.\n• VTP & Frame Tagging protocols ISL, Dot1q\n• NAT, PAT, NAT-T.\n• Strong skills in Configuring Cisco Routers (ASR901, ASR903, ASR900) using ISIS, OSPF, EIGRP\nand BGP. A good understanding of working on Small to High E1nd Routers and Switches.\n• Comprehensive understanding of networking concepts pertaining to LAN, WAN, Security, IT\ncommunication, WAN protocols, Networking devices administration and maintenance in multi-\nplatform environments.\n• Strong hands-on technical knowledge of Microsoft Operating Systems (Network & Desktop),\nestablishing & managing networks, Cisco Routers, Hardware clients & switches.\n• Expertise in managing medium to large networks with Routers, Switches."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "content": "Navas Koya\nTest Engineer\n\nMangalore, Karnataka - Email me on Indeed: indeed.com/r/Navas-Koya/23c1e4e94779b465\n\nWilling to relocate to: Mangalore, Karnataka - Bangalore, Karnataka - Chennai, Tamil Nadu\n\nWORK EXPERIENCE\n\nSystem Engineer\n\nInfosys -\n\nAugust 2014 to Present\n\n.NET application Maintenance and do the code changes if required\n\nTest Engineer\n\nInfosys -\n\nJune 2015 to February 2016\n\nPrProject 2:\n\nTitle: RBS W&G Proving testing.\nTechnology: Manual testing\nRole: Software Test Engineer\n\nDomain: Banking\nDescription:\n\nWrite test cases & descriptions. Review the entries. Upload and map the documents into\nHP QC. Execute the testing operations in TPROD mainframe. Upload the result in QC along with\nthe proof.\nRoles and Responsibilities:\n•Prepared the Test Scenarios\n\n•Prepared and Executed Test Cases\n•Performed functional, Regression testing, Sanity testing.\n\n•Reviewed the Test Reports and Preparing Test Summary Report.\n•Upload Test cases to the QC.\n•Execute in TPROD Mainframe.\n•Defect Track and Report.\n\nTest Executive\n\nInfosys Limited -\n\nAugust 2014 to May 2015\n\nhttps://www.indeed.com/r/Navas-Koya/23c1e4e94779b465?isid=rex-download&ikw=download-top&co=IN\n\n\nProject 1:\nTitle: CAWP (Compliance Automated Work Paper)\n\nTechnology: Manual testing\nRole: Software Test Executive\nDomain: Banking\nDescription:\nThe Admin can create and maintain annual test plan, and users can only view and add\ndetails. Testers will get Business Requirement which explains the flows and Functional\nrequirements which gives the full detail of the project.\nRoles and Responsibilities:\n\n•Prepared the Test Scenarios\n•Prepared and Executed Test Cases\n•Performed functional, Regression testing, Sanity testing.\n•Reviewed the Test Reports and Preparing Test Summary Report.\n•Defect Track and Report.\n\nEDUCATION\n\nBachelor of Computer Applications\n\nMangalore University, Mangalore\n\nJune 2011 to April 2014\n\nSKILLS\n\nC# (Less than 1 year), .NET, SQL Server, Css, Html5\n\nADDITIONAL INFORMATION\n\nBachelor of computer application: with 74% from Milagres College, Kallianpur under\nMangalore University, Karnataka.\n\nNavas Najeer Koya 2\n\nSKILL SET • ASP.NET, C# • QA tools\n\n• Coding and modularization • Excellent communication skills\n\n• VB, VB.net, ASP • Technical specifications creation\n\n• HTML • System backups\n\n• Sql server 2005, Oracle • System upgrades\n\n• Java/C/C++ • Excellent problem-solving abilities\n\nNavas Najeer Koya 3",
+    "entities": [
+      {
+        "label": "Name",
+        "start": 0,
+        "end": 10,
+        "text": "Navas Koya"
+      },
+      {
+        "label": "Designation",
+        "start": 11,
+        "end": 24,
+        "text": "Test Engineer"
+      },
+      {
+        "label": "Location",
+        "start": 26,
+        "end": 35,
+        "text": "Mangalore"
+      },
+      {
+        "label": "Location",
+        "start": 135,
+        "end": 144,
+        "text": "Mangalore"
+      },
+      {
+        "label": "Designation",
+        "start": 219,
+        "end": 234,
+        "text": "System Engineer"
+      },
+      {
+        "label": "Companies worked at",
+        "start": 236,
+        "end": 243,
+        "text": "Infosys"
+      },
+      {
+        "label": "Graduation Year",
+        "start": 254,
+        "end": 258,
+        "text": "2014"
+      },
+      {
+        "label": "Designation",
+        "start": 337,
+        "end": 350,
+        "text": "Test Engineer"
+      },
+      {
+        "label": "Companies worked at",
+        "start": 352,
+        "end": 359,
+        "text": "Infosys"
+      },
+      {
+        "label": "Designation",
+        "start": 479,
+        "end": 492,
+        "text": "Test Engineer"
+      },
+      {
+        "label": "Companies worked at",
+        "start": 1031,
+        "end": 1038,
+        "text": "Infosys"
+      },
+      {
+        "label": "Graduation Year",
+        "start": 1057,
+        "end": 1061,
+        "text": "2014"
+      },
+      {
+        "label": "Degree",
+        "start": 1794,
+        "end": 1826,
+        "text": "Bachelor of Computer Application"
+      },
+      {
+        "label": "Location",
+        "start": 1829,
+        "end": 1838,
+        "text": "Mangalore"
+      },
+      {
+        "label": "Location",
+        "start": 1851,
+        "end": 1860,
+        "text": "Mangalore"
+      },
+      {
+        "label": "Graduation Year",
+        "start": 1881,
+        "end": 1885,
+        "text": "2014"
+      },
+      {
+        "label": "Skills",
+        "start": 1895,
+        "end": 1946,
+        "text": "C# (Less than 1 year), .NET, SQL Server, Css, Html5"
+      },
+      {
+        "label": "Location",
+        "start": 2055,
+        "end": 2064,
+        "text": "Mangalore"
+      },
+      {
+        "label": "Skills",
+        "start": 2110,
+        "end": 2404,
+        "text": "SKILL SET • ASP.NET, C# • QA tools\n\n• Coding and modularization • Excellent communication skills\n\n• VB, VB.net, ASP • Technical specifications creation\n\n• HTML • System backups\n\n• Sql server 2005, Oracle • System upgrades\n\n• Java/C/C++ • Excellent problem-solving abilities\n\nNavas Najeer Koya 3"
+      }
+    ]
+  }
+]

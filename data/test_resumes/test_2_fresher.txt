@@ -1,0 +1,35 @@
+Aarav Sharma
+Bengaluru, Karnataka | aarav.sharma2024@gmail.com | +91-9876543210
+LinkedIn: linkedin.com/in/aarav-sharma-ai | GitHub: github.com/aaravsharma
+
+CAREER OBJECTIVE
+Enthusiastic and detail-oriented Computer Science fresher seeking an entry-level Machine Learning Engineer position. Eager to leverage hands-on academic knowledge in Natural Language Processing, deep learning, and Python to contribute to scalable AI applications.
+
+EDUCATION
+B.E. in Artificial Intelligence and Machine Learning
+B.M.S. College of Engineering, Bengaluru
+Graduation Year: 2024
+CGPA: 8.92 / 10.0
+
+Senior Secondary Education (CBSE Class XII)
+Delhi Public School, Bangalore South
+Year of Completion: 2020 | Percentage: 94.6%
+
+TECHNICAL SKILLS
+- Programming Languages: Python, C++, Java, SQL
+- Machine Learning & NLP: PyTorch, Scikit-Learn, Transformers, spaCy, NLTK, WordPiece Tokenization
+- Web Frameworks & Tools: Streamlit, FastAPI, Git, Docker, Linux, Jupyter
+
+ACADEMIC PROJECTS
+1. Automated Resume Entity Extraction using Named Entity Recognition
+   - Implemented comparative NER architectures utilizing CRF, fine-tuned BERT, and few-shot LLMs.
+   - Evaluated models with chunk-level seqeval metrics achieving an F1-score of 0.78 on resume entities.
+   - Built a Streamlit web interface with pdfplumber text extraction.
+
+2. Multilingual Sentiment Analysis for Social Media Posts
+   - Fine-tuned XLM-RoBERTa on Indian regional languages (Hindi, Kannada).
+   - Deployed model on HuggingFace Spaces with 86% classification accuracy.
+
+CERTIFICATIONS
+- Deep Learning Specialization - DeepLearning.AI (Coursera)
+- Machine Learning with Python - IBM

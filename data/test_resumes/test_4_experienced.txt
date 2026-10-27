@@ -1,0 +1,43 @@
+Vikramaditya Rao
+Lead Cloud Solutions Architect
+Bengaluru, Karnataka - Email: v.rao@amazon.com - Phone: +91-9988776655
+LinkedIn: linkedin.com/in/vikramaditya-rao
+
+EXECUTIVE PROFILE
+Over 11 years of experience in distributed cloud systems, enterprise architecture, and big data infrastructure. Proven track record of leading high-performance engineering teams across Amazon and Oracle.
+
+PROFESSIONAL EXPERIENCE
+
+Principal Cloud Architect
+Amazon Web Services (AWS) - Bengaluru, Karnataka
+March 2019 to Present
+- Spearheaded enterprise migration architecture for Tier-1 financial institutions across APAC.
+- Designed resilient microservices using Kubernetes, Go Lang, and Apache Kafka handling 200k req/sec.
+- Mentored a cross-functional team of 18 senior engineers and devops specialists.
+
+Senior Solutions Architect
+Oracle India Private Limited - Bengaluru, Karnataka
+January 2015 to February 2019
+- Architected enterprise cloud ERP deployments on Oracle Cloud Infrastructure (OCI).
+- Optimized database query latency by 60% using advanced PL/SQL profiling and caching.
+- Received Oracle President's Circle award for outstanding technical delivery in 2017.
+
+Senior Software Engineer
+Wipro Technologies - Chennai, Tamil Nadu
+July 2012 to December 2014
+- Developed Java J2EE enterprise web services and integrated automated CI/CD pipelines.
+
+EDUCATION & CREDENTIALS
+Master of Technology (M.Tech) in Software Engineering
+Birla Institute of Technology and Science (BITS), Pilani
+Graduation Year: 2012
+
+Bachelor of Engineering (B.E) in Electronics & Communication
+Visvesvaraya Technological University (VTU), Belagavi
+Graduation Year: 2010
+
+TECHNICAL EXPERTISE
+Cloud & DevOps: AWS Certified Solutions Architect Professional, Docker, Kubernetes, Terraform
+Languages: Python, Go Lang, Java, C++, SQL, Bash
+Databases: PostgreSQL, DynamoDB, Oracle 12c, Redis
+Big Data: Apache Spark, Kafka, Hadoop, Snowflake
